@@ -1,0 +1,1873 @@
+Date,Time,Currency,News,Impact,Forecast,Previous,Direction
+1/18/2017,4:00,EUR,CPI (y/y),high,1.10%,1.10%,1
+1/18/2017,7:30,USD,CPI (m/m),high,0.30%,0.20%,1
+1/18/2017,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+1/18/2017,13:00,USD,Fed's Beige Book Released,high,0,0,0
+1/19/2017,6:45,EUR,ECB - Deposit Rate,high,-0.40%,-0.40%,-1
+1/19/2017,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+1/19/2017,7:30,EUR,ECB President Draghi gives press conference following interest rate announcement,high,0,0,0
+1/20/2017,3:30,GBP,Retail Sales (m/m),high,-0.10%,-0.10%,1
+1/20/2017,3:30,GBP,Core Retail Sales (m/m),high,-0.40%,0.20%,1
+1/20/2017,3:30,GBP,Retail Sales (y/y),high,7.20%,5.70%,1
+1/20/2017,3:30,GBP,Core Retail Sales (y/y),high,7.50%,6.40%,1
+1/25/2017,3:00,EUR,German IFO Business Climate,high,111.3,111,1
+1/25/2017,3:00,EUR,German IFO Expectations,high,105.8,105.5,1
+1/25/2017,3:00,EUR,German IFO Current Conditions,high,117,116.7,1
+1/26/2017,3:30,GBP,GDP (1st Est.) (q/q),high,0.50%,0.60%,1
+1/26/2017,3:30,GBP,GDP (1st Est.) (y/y),high,2.10%,2.20%,1
+1/27/2017,All Day,GBP,Sovereign Debt to be Rated by Moody's,high,0,0,0
+1/27/2017,7:30,USD,GDP (q/q ann),high,2.20%,3.50%,1
+1/27/2017,9:00,USD,UoM Consumer Sentiment Index,high,98.1,98.1,1
+1/30/2017,All Day,JPY,BoJ monetary policy meeting (to 31st),high,0,0,0
+1/31/2017,0:30,JPY,BoJ Policy Statement and Governor Kuroda Press Conference,high,0,0,0
+1/31/2017,4:00,EUR,CPI (y/y),high,1.50%,1.10%,1
+1/31/2017,9:00,USD,Consumer Confidence,high,112.8,113.3*,1
+2/1/2017,7:15,USD,ADP National Employment Report,high,167.0k,151.0k*,1
+2/1/2017,9:00,USD,ISM Manufacturing,high,55,54.5,1
+2/1/2017,13:00,USD,Federal Funds Rate,high,0.75%,0.75%,-1
+2/2/2017,6:00,GBP,Official Bank Rate,high,0.25%,0.25%,-1
+2/2/2017,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+2/2/2017,6:00,GBP,BoE Releases Quarterly Inflation Report,high,0,0,0
+2/2/2017,6:00,GBP,BoE MPC minutes released,high,0,0,0
+2/2/2017,6:00,GBP,BoE Monetary Policy Committee Meeting and Rate Decision,high,0,0,0
+2/2/2017,17:50,JPY,BoJ Release Minutes,high,0,0,0
+2/3/2017,7:30,USD,Unemployment Rate,high,4.70%,4.70%,-1
+2/3/2017,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.2%*,1
+2/3/2017,7:30,USD,Nonfarm Payrolls,high,180.0k,157.0k*,1
+2/3/2017,7:30,USD,Private Payrolls,high,175.0k,165.0k*,1
+2/3/2017,9:00,USD,ISM Non-Manufacturing,high,57,56.6,1
+2/10/2017,3:30,GBP,Manufacturing Production (m/m),high,0.50%,1.4%*,1
+2/10/2017,3:30,GBP,Manufacturing Production (y/y),high,1.70%,1.7%*,1
+2/10/2017,9:00,USD,UoM Consumer Sentiment Index,high,98,98.5,1
+2/11/2017,All Day,JPY,Market Holiday - National Foundation Day,high,0,0,0
+2/14/2017,3:30,GBP,CPI (m/m),high,-0.50%,0.50%,1
+2/14/2017,3:30,GBP,CPI (y/y),high,1.90%,1.60%,1
+2/14/2017,4:00,EUR,ZEW (Economic Sentiment),high,0,23.2,0
+2/14/2017,7:30,USD,PPI (m/m),high,0.30%,0.2%*,1
+2/15/2017,7:30,USD,Retail Sales (m/m),high,0.10%,1.0%*,1
+2/15/2017,7:30,USD,Core Retail Sales (m/m),high,0.40%,0.4%*,1
+2/15/2017,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+2/15/2017,7:30,USD,CPI (m/m),high,0.30%,0.30%,1
+2/17/2017,All Day,USD,Sovereign Debt to be Rated by Moody's,high,0,0,0
+2/17/2017,3:30,GBP,Core Retail Sales (m/m),high,0.70%,-2.2%*,1
+2/17/2017,3:30,GBP,Retail Sales (m/m),high,1.00%,-2.1%*,1
+2/17/2017,3:30,GBP,Retail Sales (y/y),high,3.40%,4.1%*,1
+2/17/2017,3:30,GBP,Core Retail Sales (y/y),high,3.90%,4.7%*,1
+2/22/2017,3:00,EUR,German IFO Business Climate,high,109.6,109.8,1
+2/22/2017,3:00,EUR,German IFO Expectations,high,103,103.2,1
+2/22/2017,3:00,EUR,German IFO Current Conditions,high,116.6,116.9,1
+2/22/2017,3:30,GBP,GDP (2nd Est.) (q/q),high,0.60%,0.60%,1
+2/22/2017,3:30,GBP,GDP (2nd Est.) (y/y),high,2.20%,2.20%,1
+2/22/2017,4:00,EUR,CPI (y/y),high,1.80%,1.1%*,1
+2/24/2017,9:00,USD,UoM Consumer Sentiment Index,high,96,95.7,1
+2/28/2017,7:30,USD,GDP (q/q ann),high,2.10%,1.90%,1
+2/28/2017,9:00,USD,Consumer Confidence,high,111,111.6*,1
+3/1/2017,9:00,USD,ISM Manufacturing,high,56,56,1
+3/2/2017,4:00,EUR,CPI (y/y),high,2.00%,1.80%,1
+3/3/2017,9:00,USD,ISM Non-Manufacturing,high,56.5,56.5,1
+3/8/2017,7:15,USD,ADP National Employment Report,high,187.0k,246.0k,1
+3/9/2017,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+3/9/2017,6:45,EUR,ECB - Deposit Rate,high,-0.40%,-0.40%,-1
+3/9/2017,6:45,EUR,ECB President Draghi gives press conference following interest rate announcement,high,0,0,0
+3/10/2017,3:30,GBP,Manufacturing Production (m/m),high,-0.70%,2.10%,1
+3/10/2017,3:30,GBP,Manufacturing Production (y/y),high,2.90%,4.00%,1
+3/10/2017,7:30,USD,Nonfarm Payrolls,high,200.0k,238.0k*,1
+3/10/2017,7:30,USD,Private Payrolls,high,215.0k,221.0k*,1
+3/10/2017,7:30,USD,Unemployment Rate,high,4.70%,4.80%,-1
+3/10/2017,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.2%*,1
+3/14/2017,5:00,EUR,ZEW (Economic Sentiment),high,0,17.1,0
+3/14/2017,7:30,USD,PPI (m/m),high,0.10%,0.60%,1
+3/15/2017,All Day,JPY,BoJ Policy meeting (to 16th),high,0,0,0
+3/15/2017,7:30,USD,Core CPI (m/m),high,0.20%,0.30%,1
+3/15/2017,7:30,USD,CPI (m/m),high,0.00%,0.60%,1
+3/15/2017,7:30,USD,Retail Sales (m/m),high,-0.10%,0.6%*,1
+3/15/2017,7:30,USD,Core Retail Sales (m/m),high,0.10%,1.2%*,1
+3/15/2017,13:00,USD,Federal Funds Rate,high,1.00%,0.75%,-1
+3/16/2017,All Day,JPY,BoJ Policy Statement and Governor Kuroda Press Conference,high,0,0,0
+3/16/2017,5:00,EUR,CPI (y/y),high,2.00%,2.00%,1
+3/16/2017,7:00,GBP,BoE Monetary Policy Committee Meeting and Rate Decision,high,0,0,0
+3/16/2017,7:00,GBP,BoE MPC minutes released,high,0,0,0
+3/16/2017,7:00,GBP,Official Bank Rate,high,0.25%,0.25%,-1
+3/16/2017,7:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+3/16/2017,7:00,GBP,BoE Monetary Policy Committee Meeting and Rate Decision,high,0,0,0
+3/17/2017,9:00,USD,UoM Consumer Sentiment Index,high,97,96.3,1
+3/21/2017,4:30,GBP,CPI (m/m),high,0.50%,-0.50%,1
+3/21/2017,4:30,GBP,CPI (y/y),high,2.10%,1.80%,1
+3/21/2017,18:50,JPY,BoJ Release Minutes,high,0,0,0
+3/23/2017,4:30,GBP,Retail Sales (m/m),high,0.40%,-0.5%*,1
+3/23/2017,4:30,GBP,Core Retail Sales (m/m),high,0.30%,-0.3%*,1
+3/23/2017,4:30,GBP,Retail Sales (y/y),high,2.60%,1.0%*,1
+3/23/2017,4:30,GBP,Core Retail Sales (y/y),high,3.20%,2.1%*,1
+3/27/2017,3:00,EUR,German IFO Current Conditions,high,118.3,118.4,1
+3/27/2017,3:00,EUR,German IFO Business Climate,high,111.1,111.1*,1
+3/27/2017,3:00,EUR,German IFO Expectations,high,104.3,104.2*,1
+3/28/2017,9:00,USD,Consumer Confidence,high,114,116.1*,1
+3/30/2017,7:30,USD,GDP (q/q ann),high,2.00%,1.90%,1
+3/31/2017,3:30,GBP,GDP (Final) (q/q),high,0.70%,0.70%,1
+3/31/2017,3:30,GBP,GDP (Final) (y/y),high,2.00%,2.00%,1
+3/31/2017,4:00,EUR,CPI (y/y),high,1.80%,2.00%,1
+3/31/2017,9:00,USD,UoM Consumer Sentiment Index,high,97.6,97.6,1
+4/3/2017,9:00,USD,ISM Manufacturing,high,57.2,57.7,1
+4/5/2017,7:15,USD,ADP National Employment Report,high,185.0k,298.0k,1
+4/5/2017,9:00,USD,ISM Non-Manufacturing,high,57,57.6,1
+4/5/2017,12:00,USD,Federal Reserve FOMC Meeting Minutes,high,0,0,0
+4/7/2017,3:30,GBP,Manufacturing Production (m/m),high,0.30%,-1.0%*,1
+4/7/2017,3:30,GBP,Manufacturing Production (y/y),high,3.90%,2.6%*,1
+4/7/2017,7:30,USD,Private Payrolls,high,170.0k,221.0k*,1
+4/7/2017,7:30,USD,Nonfarm Payrolls,high,180.0k,219.0k*,1
+4/7/2017,7:30,USD,Unemployment Rate,high,4.70%,4.70%,1
+4/7/2017,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.20%,1
+4/11/2017,3:30,GBP,CPI (m/m),high,0.30%,0.70%,1
+4/11/2017,3:30,GBP,CPI (y/y),high,2.30%,2.30%,1
+4/11/2017,4:00,EUR,ZEW (Economic Sentiment),high,0,25.6,0
+4/13/2017,7:30,USD,PPI (m/m),high,0.00%,0.3%*,1
+4/13/2017,9:00,USD,UoM Consumer Sentiment Index,high,96.5,96.9,1
+4/14/2017,All Day,EUR,German Market Holiday - Good Friday,high,0,0,0
+4/14/2017,All Day,GBP,Market Holiday - Good Friday,high,0,0,0
+4/14/2017,6:30,USD,Retail Sales (m/m),high,-0.20%,-0.3%*,1
+4/14/2017,6:30,USD,Core Retail Sales (m/m),high,0.30%,0.0%*,1
+4/14/2017,7:30,USD,CPI (m/m),high,0.00%,0.10%,1
+4/14/2017,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+4/17/2017,All Day,EUR,French Market Holiday - Easter Monday,high,0,0,0
+4/17/2017,All Day,EUR,German Market Holiday - Easter Monday,high,0,0,0
+4/17/2017,All Day,GBP,Market Holiday - Easter Monday,high,0,0,0
+4/19/2017,All Day,JPY,Cabinet Office April Economic Report,high,0,0,0
+4/19/2017,4:00,EUR,CPI (y/y),high,1.50%,1.50%,1
+4/21/2017,3:30,GBP,Retail Sales (m/m),high,-0.50%,1.7%*,1
+4/21/2017,3:30,GBP,Core Retail Sales (m/m),high,-0.50%,1.6%*,1
+4/21/2017,3:30,GBP,Core Retail Sales (y/y),high,3.80%,4.10%,1
+4/21/2017,3:30,GBP,Retail Sales (y/y),high,3.30%,3.70%,1
+4/24/2017,2:00,EUR,German IFO Current Conditions,high,119.2,119.5*,1
+4/24/2017,2:00,EUR,German IFO Business Climate,high,112.4,112.3,1
+4/24/2017,2:00,EUR,German IFO Expectations,high,105.9,105.7,1
+4/25/2017,9:00,USD,Consumer Confidence,high,122.5,124.9*,1
+4/26/2017,All Day,EUR,German Frankfurt Finance Summit,high,0,0,0
+4/27/2017,All Day,JPY,BoJ Outlook Report,high,0,0,0
+4/27/2017,1:30,JPY,BoJ Policy Statement and Governor Kuroda Press Conference,high,0,0,0
+4/27/2017,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+4/27/2017,6:45,EUR,ECB - Deposit Rate,high,-0.40%,-0.40%,-1
+4/27/2017,7:30,EUR,ECB President Draghi gives press conference following interest rate announcement,high,0,0,0
+4/28/2017,3:30,GBP,GDP (Prelim) (q/q),high,0.40%,0.70%,1
+4/28/2017,3:30,GBP,GDP (Prelim) (y/y),high,2.20%,1.90%,1
+4/28/2017,4:00,EUR,CPI (y/y),high,1.80%,1.50%,1
+4/28/2017,7:30,USD,GDP (q/q ann),high,1.00%,2.10%,1
+4/28/2017,9:00,USD,UoM Consumer Sentiment Index,high,98,98,1
+4/29/2017,All Day,JPY,Market Holiday - Showa Day,high,0,0,0
+5/1/2017,All Day,EUR,French Market Holiday - Labour Day,high,0,0,0
+5/1/2017,All Day,GBP,Market Holiday - Early May Bank Holiday,high,0,0,0
+5/1/2017,All Day,EUR,German Market Holiday - Labour Day,high,0,0,0
+5/1/2017,9:00,USD,ISM Manufacturing,high,56.5,57.2,1
+5/2/2017,All Day,JPY,BoJ Release Minutes,high,0,0,0
+5/2/2017,7:15,EUR,Germany's Schaueble Speaks in Berlin,high,0,0,0
+5/3/2017,All Day,JPY,Market Holiday - Constitutional Memorial Day,high,0,0,0
+5/3/2017,4:00,EUR,EU's Barnier Speaks in Brussels,high,0,0,0
+5/3/2017,7:15,USD,ADP National Employment Report,high,175.0k,263.0k,1
+5/3/2017,9:00,USD,ISM Non-Manufacturing,high,55.8,55.2,1
+5/3/2017,13:00,USD,Federal Funds Rate,high,1.00%,1.00%,-1
+5/3/2017,13:00,USD,Federal Reserve FOMC meeting,high,0,0,0
+5/4/2017,All Day,JPY,Market Holiday - Greenery Day,high,0,0,0
+5/5/2017,All Day,JPY,Market Holiday - Childrens Day,high,0,0,0
+5/5/2017,7:30,USD,Unemployment Rate,high,4.60%,4.50%,-1
+5/5/2017,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.1%*,1
+5/5/2017,7:30,USD,Nonfarm Payrolls,high,190.0k,79.0k*,1
+5/5/2017,7:30,USD,Private Payrolls,high,190.0k,77.0k*,1
+5/7/2017,All Day,EUR,French Presidential Election,high,0,0,0
+5/8/2017,All Day,EUR,French Market Holiday - V-E Day,high,0,0,0
+5/8/2017,7:35,USD,Fed's Bullard Speaks in Florida,high,0,0,0
+5/9/2017,8:00,USD,Fed's Kashkari Speaks in Minneapolis,high,0,0,0
+5/9/2017,10:40,USD,Fed's George Speaks in Santa Barbara,high,0,0,0
+5/10/2017,12:20,USD,Fed's Kashkari Speaks in Minnesota,high,0,0,0
+5/11/2017,6:00,GBP,BoE Monetary Policy Committee Meeting and Rate Decision,high,0,0,0
+5/11/2017,6:00,GBP,BoE MPC minutes released,high,0,0,0
+5/11/2017,6:00,GBP,BoE Releases Quarterly Inflation Report,high,0,0,0
+5/11/2017,6:00,GBP,Official Bank Rate,high,0.25%,0.25%,-1
+5/11/2017,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+5/11/2017,6:30,GBP,BoE's Carney Speaks in London,high,0,0,0
+5/11/2017,7:30,USD,PPI (m/m),high,0.20%,-0.10%,1
+5/11/2017,7:45,USD,Bloomberg May Economic Survey,high,0,0,0
+5/12/2017,7:30,USD,Retail Sales (m/m),high,0.50%,0.1%*,1
+5/12/2017,7:30,USD,Core Retail Sales (m/m),high,0.50%,0.3%*,1
+5/12/2017,7:30,USD,CPI (m/m),high,0.20%,-0.30%,1
+5/12/2017,7:30,USD,Core CPI (m/m),high,0.20%,-0.10%,1
+5/12/2017,9:00,USD,UoM Consumer Sentiment Index,high,97,97,1
+5/15/2017,1:30,EUR,Bloomberg May Economic Survey,high,0,0,0
+5/16/2017,3:30,GBP,CPI (m/m),high,0.40%,0.40%,1
+5/16/2017,3:30,GBP,CPI (y/y),high,2.40%,2.30%,1
+5/16/2017,4:00,EUR,ZEW (Economic Sentiment),high,0,26.3,0
+5/17/2017,4:00,EUR,CPI (y/y),high,1.90%,1.5%*,1
+5/17/2017,10:10,USD,Former Fed Chairman Bernanke Speaks,high,0,0,0
+5/18/2017,2:30,GBP,Bloomberg May Economic Survey,high,0,0,0
+5/18/2017,3:30,GBP,Retail Sales (m/m),high,1.10%,-1.4%*,1
+5/18/2017,3:30,GBP,Core Retail Sales (m/m),high,1.00%,-1.2%*,1
+5/18/2017,3:30,GBP,Core Retail Sales (y/y),high,2.60%,2.8%*,1
+5/18/2017,3:30,GBP,Retail Sales (y/y),high,2.10%,2.0%*,1
+5/18/2017,3:50,EUR,ECB's Mersch Speaks in Frankfurt,high,0,0,0
+5/18/2017,8:30,EUR,ECB's Mersch Speaks in Luxembourg ,high,0,0,0
+5/19/2017,6:00,EUR,ECB's Coeure Speaks in Geneva,high,0,0,0
+5/20/2017,All Day,EUR,EU & Euro-Area Finance Ministers Meet in Brussels (to 23rd),high,0,0,0
+5/22/2017,8:00,EUR,EU's Verhofstadt and Malstrom Speak in Brussels,high,0,0,0
+5/22/2017,9:00,USD,Fed's Harker Speaks in Philidelphia,high,0,0,0
+5/23/2017,3:00,EUR,German IFO Business Climate,high,113.1,112.9,1
+5/23/2017,3:00,EUR,German IFO Expectations,high,105.4,105.2,1
+5/23/2017,3:00,EUR,German IFO Current Conditions,high,121,121.1,1
+5/23/2017,9:00,EUR,ECB's Coure Speaks in Brussels,high,0,0,0
+5/23/2017,21:00,JPY,Cabinet Office May Economic Report,high,0,0,0
+5/24/2017,8:45,EUR,ECB's Draghi Speaks in Madrid,high,0,0,0
+5/24/2017,13:00,USD,Federal Reserve Meeting Minutes,high,0,0,0
+5/25/2017,All Day,EUR,German Market Holiday - Ascension Day,high,0,0,0
+5/25/2017,All Day,EUR,French Market Holiday - Ascension Day,high,0,0,0
+5/25/2017,3:30,GBP,GDP (2nd Est) (q/q),high,0.30%,0.30%,1
+5/25/2017,3:30,GBP,GDP (2nd Est) (y/y),high,2.10%,2.10%,1
+5/25/2017,20:00,JPY,Bloomberg May Economic Survey,high,0,0,0
+5/26/2017,7:30,USD,GDP (q/q ann),high,0.90%,0.70%,1
+5/26/2017,9:00,USD,UoM Consumer Sentiment Index,high,97.5,97.7,1
+5/28/2017,All Day,EUR,German Bundesbank Weidmann Speaks in Berlin,high,0,0,0
+5/29/2017,All Day,GBP,Market Holiday - Spring Bank Holiday,high,0,0,0
+5/29/2017,All Day,USD,Market Holiday - Memorial Day ,high,0,0,0
+5/30/2017,9:00,USD,Consumer Confidence,high,119.8,120.3,1
+5/31/2017,4:00,EUR,CPI (y/y),high,1.50%,1.90%,1
+6/1/2017,All Day,GBP,Sovereign Debt to be Rated by Moody's,high,0,0,0
+6/1/2017,7:15,USD,ADP National Employment Report,high,180.0k,177.0k,1
+6/1/2017,9:00,USD,ISM Manufacturing,high,54.7,54.8,1
+6/2/2017,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.2%*,1
+6/2/2017,7:30,USD,Unemployment Rate,high,4.40%,4.40%,-1
+6/2/2017,7:30,USD,Nonfarm Payrolls,high,182.0k,174.0k*,1
+6/2/2017,7:30,USD,Private Payrolls,high,175.0k,173.0k*,1
+6/5/2017,All Day,EUR,French Market Holiday - Whitmonday,high,0,0,0
+6/5/2017,All Day,EUR,German Market Holiday - Whitmonday,high,0,0,0
+6/5/2017,9:00,USD,ISM Non-Manufacturing,high,57.1,57.5,1
+6/8/2017,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+6/8/2017,6:45,EUR,ECB - Deposit Rate,high,-0.40%,-0.40%,-1
+6/8/2017,8:30,EUR,ECB President Draghi gives press conference following interest rate announcement,high,0,0,0
+6/9/2017,3:30,GBP,Manufacturing Production (y/y),high,0.70%,2.2%*,1
+6/9/2017,3:30,GBP,Manufacturing Production (m/m),high,0.80%,-0.6%*,1
+6/13/2017,3:30,GBP,CPI (m/m),high,0.20%,0.50%,1
+6/13/2017,3:30,GBP,CPI (y/y),high,2.70%,2.70%,1
+6/13/2017,4:00,EUR,ZEW (Economic Sentiment),high,0,35.1,0
+6/13/2017,5:00,EUR,ECB's Lautenschlager Speaks in London,high,0,0,0
+6/13/2017,7:30,USD,PPI (m/m),high,0.00%,0.50%,1
+6/13/2017,9:20,GBP,BoE's Cleland Speaks in London,high,0,0,0
+6/14/2017,7:30,USD,CPI (m/m),high,0.00%,0.20%,1
+6/14/2017,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+6/14/2017,7:30,USD,Retail Sales (m/m),high,0.00%,0.40%,1
+6/14/2017,7:30,USD,Core Retail Sales (m/m),high,0.20%,0.4%*,1
+6/14/2017,13:00,USD,Federal Reserve FOMC meeting,high,0,0,0
+6/14/2017,13:00,USD,Federal Funds Rate,high,1.25%,1.00%,-1
+6/15/2017,All Day,GBP,BoE Monetary Policy Committee Meeting and Rate Decision,high,0,0,0
+6/15/2017,All Day,GBP,BoE MPC minutes released,high,0,0,0
+6/15/2017,3:30,GBP,Core Retail Sales (m/m),high,-1.00%,2.2%*,1
+6/15/2017,3:30,GBP,Retail Sales (m/m),high,-0.80%,2.5%*,1
+6/15/2017,3:30,GBP,Core Retail Sales (y/y),high,1.90%,4.6%*,1
+6/15/2017,3:30,GBP,Retail Sales (y/y),high,1.60%,4.2%*,1
+6/15/2017,6:00,GBP,Official Bank Rate,high,0.25%,0.25%,-1
+6/15/2017,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+6/16/2017,All Day,JPY,BoJ Policy Statement and Governor Kuroda Press Conference,high,0,0,0
+6/16/2017,All Day,GBP,Sovereign Debt to be Rated by DBRS,high,0,0,0
+6/16/2017,4:00,EUR,CPI (y/y),high,1.40%,1.9%*,1
+6/16/2017,9:00,USD,UoM Consumer Sentiment Index,high,97,97.1,1
+6/19/2017,All Day,GBP,BoE's Carney & Philip Hammond Speak in London,high,0,0,0
+6/20/2017,18:50,JPY,BoJ Release Minutes,high,0,0,0
+6/22/2017,All Day,JPY,June Economic Report,high,0,0,0
+6/22/2017,All Day,EUR,ECB's Draghi Speaks in Brussels,high,0,0,0
+6/22/2017,All Day,EUR,ECB President Draghi speaks in Brussels,high,0,0,0
+6/23/2017,All Day,USD,Sovereign Debt to be Rated by Moody's,high,0,0,0
+6/26/2017,3:00,EUR,German IFO Expectations,high,106.4,106.5,1
+6/26/2017,3:00,EUR,German IFO Current Conditions,high,123.3,123.2,1
+6/26/2017,3:00,EUR,German IFO Business Climate,high,114.5,114.6,1
+6/27/2017,All Day,GBP,Financial Stability Report,high,0,0,0
+6/27/2017,9:00,USD,Consumer Confidence,high,116,117.6*,1
+6/28/2017,5:45,EUR,"ECB's Lautenschlager speaks in Bonn, Germany",high,0,0,0
+6/28/2017,8:30,GBP,BoE's Carney Speaks in Sintra,high,0,0,0
+6/28/2017,9:30,EUR,ECB's Draghi Speaks in Sintra,high,0,0,0
+6/29/2017,7:30,USD,GDP (q/q ann),high,1.20%,1.20%,1
+6/29/2017,13:30,EUR,"ECB's Angeloni speaks in Florence, Italy",high,0,0,0
+6/30/2017,All Day,EUR,ECB's Coeure speaks in Brussels,high,0,0,0
+6/30/2017,3:30,GBP,GDP (Final) (q/q),high,0.20%,0.20%,1
+6/30/2017,3:30,GBP,GDP (Final) (y/y),high,2.00%,2.00%,1
+6/30/2017,4:00,EUR,CPI (y/y),high,1.20%,1.40%,1
+6/30/2017,6:30,EUR,"ECB's Lautenschlager speaks in Berlin, Germany",high,0,0,0
+6/30/2017,9:00,USD,UoM Consumer Sentiment Index,high,94.5,94.5,1
+7/3/2017,3:35,USD,Fed's Bullard Speaks in London,high,0,0,0
+7/3/2017,7:00,GBP,BoE's Carney Speaks ,high,0,0,0
+7/3/2017,11:00,EUR,EU's Juncker Speaks in Strasbourg,high,0,0,0
+7/3/2017,12:30,GBP,BoE's Haldane speaks in London,high,0,0,0
+7/4/2017,All Day,USD,Market Holiday - Independace Day,high,0,0,0
+7/4/2017,2:00,EUR,EU's Juncker Speaks in Strasbourg,high,0,0,0
+7/4/2017,7:00,EUR,ECB's Praet Speaks in Rome,high,0,0,0
+7/5/2017,13:00,USD,FOMC Meeting Minutes,high,0,0,0
+7/6/2017,All Day,EUR,"G20 International Summit in Hamburg, Germany",high,0,0,0
+7/6/2017,6:00,EUR,ECB's Praet Speaks in Paris ,high,0,0,0
+7/6/2017,7:15,USD,ADP National Employment Report,high,185.0k,253.0k,1
+7/6/2017,9:00,USD,ISM Non-Manufacturing,high,56.5,56.9,1
+7/7/2017,All Day,GBP,BoE's Cunliffe Speaks in France,high,0,0,0
+7/7/2017,3:30,GBP,Manufacturing Production (y/y),high,1.00%,0.00%,1
+7/7/2017,3:30,GBP,Manufacturing Production (m/m),high,0.50%,0.20%,1
+7/7/2017,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.1%*,1
+7/7/2017,7:30,USD,Unemployment Rate,high,4.30%,4.30%,-1
+7/7/2017,7:30,USD,Nonfarm Payrolls,high,177.0k,152.0k*,1
+7/7/2017,7:30,USD,Private Payrolls,high,170.0k,159.0k*,1
+7/8/2017,All Day,EUR,ECB Meeting and Interest Rate Announcement,high,0,0,0
+7/12/2017,8:00,USD,Fed Chair Yellen's testimony to Congress,high,0,0,0
+7/12/2017,12:00,USD,Federal Reserve beige book release,high,0,0,0
+7/13/2017,7:30,USD,PPI (m/m),high,0.00%,0.00%,1
+7/13/2017,7:30,USD,Fed Chair Yellen's testimony to Senate Banking Committee,high,0,0,0
+7/14/2017,All Day,EUR,French Market Holiday - Bastille Day,high,0,0,0
+7/14/2017,7:30,USD,CPI (m/m),high,0.10%,-0.10%,1
+7/14/2017,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+7/14/2017,7:30,USD,Retail Sales (m/m),high,0.10%,-0.1%*,1
+7/14/2017,7:30,USD,Core Retail Sales (m/m),high,0.20%,-0.30%,1
+7/14/2017,9:00,USD,UoM Consumer Sentiment Index,high,95,95.1,1
+7/16/2017,All Day,GBP,Next Round of Brexit negotiations commences,high,0,0,0
+7/17/2017,All Day,JPY,Market Holiday - Marine Day,high,0,0,0
+7/17/2017,4:00,EUR,CPI (y/y),high,1.30%,1.30%,1
+7/18/2017,All Day,JPY,BOJ Monetary Policy Meeting,high,0,0,0
+7/18/2017,3:30,GBP,CPI (m/m),high,0.20%,0.30%,1
+7/18/2017,3:30,GBP,CPI (y/y),high,2.90%,2.90%,1
+7/18/2017,4:00,EUR,ZEW (Economic Sentiment),high,0,37.7,0
+7/19/2017,All Day,EUR,"ECB Governing Council Meeting, followed by interest rate announcement",high,0,0,0
+7/20/2017,All Day,JPY,BoJ Outlook Report,high,0,0,0
+7/20/2017,0:30,JPY,BoJ Policy Statement and Governor Kuroda Press Conference,high,0,0,0
+7/20/2017,3:30,GBP,Core Retail Sales (m/m),high,0.50%,-1.5%*,1
+7/20/2017,3:30,GBP,Retail Sales (m/m),high,0.40%,-1.1%*,1
+7/20/2017,3:30,GBP,Core Retail Sales (y/y),high,2.50%,0.60%,1
+7/20/2017,3:30,GBP,Retail Sales (y/y),high,2.50%,0.90%,1
+7/20/2017,6:45,EUR,"ECB Governing Council meeting, followed by interest rate announcement",high,0,0,0
+7/20/2017,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+7/20/2017,6:45,EUR,ECB - Deposit Rate,high,-0.40%,-0.40%,-1
+7/20/2017,7:30,EUR,ECB President Draghi gives press conference following interest rate announcement,high,0,0,0
+7/25/2017,3:00,EUR,German IFO Current Conditions,high,123.8,124.2*,1
+7/25/2017,3:00,EUR,German IFO Business Climate,high,114.9,115.1,1
+7/25/2017,3:00,EUR,German IFO Expectations,high,106.5,106.8,1
+7/25/2017,9:00,USD,Consumer Confidence,high,116.5,117.3*,1
+7/25/2017,18:50,JPY,BoJ Release Minutes of June meeting,high,0,0,0
+7/26/2017,3:30,GBP,GDP (Prelim) (q/q),high,0.30%,0.20%,1
+7/26/2017,3:30,GBP,GDP (Prelim) (y/y),high,1.70%,2.00%,1
+7/26/2017,13:00,USD,Federal Funds Rate,high,1.25%,1.25%,-1
+7/28/2017,7:30,USD,GDP (q/q ann),high,2.70%,1.2%*,1
+7/28/2017,9:00,USD,UoM Consumer Sentiment Index,high,93.1,93.1,1
+7/28/2017,18:50,JPY,BoJ release summary of opinions from July meeting,high,0,0,0
+7/31/2017,4:00,EUR,CPI (y/y),high,1.30%,1.30%,1
+8/1/2017,9:00,USD,ISM Manufacturing,high,56.5,57.8,1
+8/2/2017,7:15,USD,ADP National Employment Report,high,190.0k,191.0k*,1
+8/3/2017,6:00,GBP,BoE Releases Quarterly Inflation Report,high,0,0,0
+8/3/2017,6:00,GBP,BoE MPC minutes released,high,0,0,0
+8/3/2017,6:00,GBP,BoE Monetary Policy Committee Meeting and Rate Decision,high,0,0,0
+8/3/2017,6:00,GBP,Official Bank Rate,high,0.25%,0.25%,-1
+8/3/2017,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+8/3/2017,9:00,USD,ISM Non-Manufacturing,high,56.9,57.4,1
+8/4/2017,7:30,USD,Unemployment Rate,high,4.30%,4.40%,-1
+8/4/2017,7:30,USD,Nonfarm Payrolls,high,180.0k,231.0k*,1
+8/4/2017,7:30,USD,Private Payrolls,high,180.0k,194.0k*,1
+8/4/2017,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.20%,1
+8/10/2017,3:30,GBP,Manufacturing Production (y/y),high,0.60%,0.3%*,1
+8/10/2017,7:30,USD,PPI (m/m),high,0.10%,0.10%,1
+8/11/2017,All Day,JPY,Market Holiday - Mountain Day,high,0,0,0
+8/11/2017,7:30,USD,CPI (m/m),high,0.20%,0.00%,1
+8/11/2017,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+8/15/2017,All Day,EUR,French Market Holiday - Assumption Day,high,0,0,0
+8/15/2017,3:30,GBP,CPI (m/m),high,0.00%,0.00%,1
+8/15/2017,3:30,GBP,CPI (y/y),high,2.70%,2.60%,1
+8/15/2017,7:30,USD,Core Retail Sales (m/m),high,0.30%,0.1%*,1
+8/15/2017,7:30,USD,Retail Sales (m/m),high,0.30%,0.3%*,1
+8/16/2017,4:00,EUR,GDP (SA) (Prelim) (q/q),high,0.60%,0.60%,1
+8/16/2017,4:00,EUR,GDP (SA) (Prelim) (y/y),high,2.10%,2.10%,1
+8/16/2017,13:00,USD,Fed releases minutes of July meeting,high,0,0,0
+8/17/2017,3:30,GBP,Core Retail Sales (m/m),high,0.10%,0.90%,1
+8/17/2017,3:30,GBP,Retail Sales (m/m),high,0.20%,0.60%,1
+8/17/2017,3:30,GBP,Core Retail Sales (y/y),high,1.20%,3.00%,1
+8/17/2017,3:30,GBP,Retail Sales (y/y),high,1.40%,2.8%*,1
+8/17/2017,4:00,EUR,CPI (y/y),high,1.30%,1.30%,1
+8/17/2017,8:15,USD,Manufacturing Production (m/m),high,0.20%,0.20%,1
+8/18/2017,9:00,USD,UoM Consumer Sentiment Index,high,94,93.4,1
+8/22/2017,4:00,EUR,ZEW (Economic Sentiment),high,0,28.7*,0
+8/22/2017,4:00,EUR,ZEW (Current Conditions),high,0,35.6,0
+8/24/2017,3:30,GBP,GDP (Prelim) (q/q),high,0.30%,0.30%,1
+8/24/2017,3:30,GBP,GDP (Prelim) (y/y),high,1.70%,1.70%,1
+8/25/2017,3:00,EUR,German IFO Expectations,high,106.8,107.3,1
+8/25/2017,3:00,EUR,German IFO Current Conditions,high,125,125.5*,1
+8/25/2017,3:00,EUR,German IFO Business Climate,high,115.5,116,1
+8/25/2017,9:00,USD,"Fed's Yellen Speaks in Jackson Hole, US",high,0,0,0
+8/25/2017,14:00,EUR,"ECB's Draghi Speaks in Jackson Hole, US",high,0,0,0
+8/28/2017,All Day,GBP,Market Holiday - Summer Bank Holiday,high,0,0,0
+8/29/2017,9:00,USD,Consumer Confidence,high,120.7,121.1,1
+8/30/2017,7:15,USD,ADP National Employment Report,high,185.0k,201.0k*,1
+8/30/2017,7:30,USD,GDP (q/q ann),high,2.70%,2.60%,1
+8/31/2017,4:00,EUR,CPI (y/y),high,1.40%,1.30%,1
+9/1/2017,7:30,USD,Unemployment Rate,high,4.30%,4.30%,-1
+9/1/2017,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.1%*,1
+9/1/2017,7:30,USD,Nonfarm Payrolls,high,180.0k,189.0k*,1
+9/1/2017,9:00,USD,UoM Consumer Sentiment Index,high,97.5,97.6,1
+9/1/2017,9:00,USD,ISM Manufacturing,high,56.5,56.3,1
+9/4/2017,All Day,USD,Market Holiday - Labour Day,high,0,0,0
+9/6/2017,9:00,USD,ISM Non-Manufacturing,high,55.5,53.9,1
+9/6/2017,13:00,USD,Fed releases Beige Book on economic conditions,high,0,0,0
+9/7/2017,4:00,EUR,GDP (SA) (Final) (q/q),high,0.60%,0.60%,1
+9/7/2017,4:00,EUR,GDP (SA) (Final) (y/y),high,2.20%,2.20%,1
+9/7/2017,6:45,EUR,ECB's Interest Rate Announcement,high,0,0,0
+9/7/2017,7:30,EUR,ECB President Draghi gives press conference following interest rate announcement,high,0,0,0
+9/8/2017,3:30,GBP,Manufacturing Production (y/y),high,1.70%,0.60%,1
+9/12/2017,3:30,GBP,CPI (m/m),high,0.50%,-0.10%,1
+9/12/2017,3:30,GBP,CPI (y/y),high,2.80%,2.60%,1
+9/13/2017,7:30,USD,PPI (m/m),high,0.30%,-0.10%,1
+9/14/2017,6:00,GBP,BoE Monetary Policy Meeting and Rate Decision,high,0,0,0
+9/14/2017,6:00,GBP,BoE MPC minutes released,high,0,0,0
+9/14/2017,6:00,GBP,BoE Bank Rate,high,0.25%,0.25%,-1
+9/14/2017,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+9/14/2017,7:30,USD,CPI (m/m),high,0.30%,0.10%,1
+9/15/2017,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.50%,0.4%*,1
+9/15/2017,7:30,USD,Retail Sales (m/m),high,0.10%,0.3%*,1
+9/15/2017,9:00,USD,UoM Consumer Sentiment Index,high,95,96.8,1
+9/18/2017,All Day,JPY,Market Holiday - Respect fopr the Aged Day,high,0,0,0
+9/18/2017,4:00,EUR,Flash HICP (Final) (y/y),high,1.50%,1.30%,1
+9/19/2017,4:00,EUR,ZEW (Economic Sentiment),high,0,29.3,0
+9/20/2017,3:30,GBP,Core Retail Sales (m/m),high,0.10%,0.7%*,1
+9/20/2017,3:30,GBP,Retail Sales (m/m),high,0.20%,0.6%*,1
+9/20/2017,3:30,GBP,Core Retail Sales (y/y),high,1.40%,1.7%*,1
+9/20/2017,3:30,GBP,Retail Sales (y/y),high,1.20%,0.6%*,1
+9/20/2017,13:00,USD,Federal Reserve FOMC Interest Rate Decision,high,0,0,0
+9/20/2017,13:00,USD,Federal Funds Rate,high,1.25%,1.25%,-1
+9/20/2017,13:30,USD,Fed's Yellen holds news conference,high,0,0,0
+9/21/2017,All Day,JPY,BoJ Policy Statement and Governor Kuroda Press Conference,high,0,0,0
+9/21/2017,All Day,EUR,ECB Council Meeting,high,0,0,0
+9/22/2017,All Day,JPY,Market Holiday - Autumnal Equinox Day,high,0,0,0
+9/25/2017,3:00,EUR,German IFO Business Climate,high,115.9,115.9,1
+9/25/2017,3:00,EUR,German IFO Expectations,high,107.7,107.8*,1
+9/25/2017,3:00,EUR,German IFO Current Conditions,high,124.6,124.7*,1
+9/25/2017,18:50,JPY,BoJ Minutes Released,high,0,0,0
+9/26/2017,9:00,USD,Consumer Confidence,high,120,120.4*,1
+9/26/2017,11:45,USD,"Fed's Yellen Speaks in NABE Conference, Ohio",high,0,0,0
+9/29/2017,3:30,GBP,GDP (Final) (q/q),high,0.30%,0.30%,1
+9/29/2017,3:30,GBP,GDP (Final) (y/y),high,1.70%,1.70%,1
+9/29/2017,4:00,EUR,CPI (y/y),high,1.60%,1.50%,1
+9/29/2017,9:00,USD,UoM Consumer Sentiment Index,high,95.3,95.3,1
+10/2/2017,9:00,USD,ISM Manufacturing,high,58,58.8,1
+10/3/2017,All Day,EUR,Market Holiday - German Unity Day,high,0,0,0
+10/4/2017,7:15,USD,ADP National Employment Report,high,135.0k,228.0k*,1
+10/4/2017,9:00,USD,ISM Non-Manufacturing,high,55.5,55.3,1
+10/6/2017,7:30,USD,Unemployment Rate,high,4.40%,4.40%,-1
+10/6/2017,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.2%*,1
+10/6/2017,7:30,USD,Nonfarm Payrolls,high,80.0k,169.0k*,1
+10/6/2017,7:30,USD,Private Payrolls,high,74.0k,164.0k*,1
+10/9/2017,All Day,JPY,Market Holiday - Health-Sports Day,high,0,0,0
+10/10/2017,3:30,GBP,Manufacturing Production (y/y),high,1.90%,1.90%,1
+10/12/2017,7:30,USD,PPI (m/m),high,0.40%,0.20%,1
+10/13/2017,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.90%,0.5%*,1
+10/13/2017,7:30,USD,Retail Sales (m/m),high,1.70%,-0.1%*,1
+10/13/2017,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+10/13/2017,7:30,USD,CPI (m/m),high,0.60%,0.40%,1
+10/13/2017,9:00,USD,UoM Consumer Sentiment Index,high,95,95.1,1
+10/17/2017,3:30,GBP,CPI (m/m),high,0.30%,0.60%,1
+10/17/2017,3:30,GBP,CPI (y/y),high,3.00%,2.90%,1
+10/17/2017,4:00,EUR,ZEW (Economic Sentiment),high,0,31.7,0
+10/17/2017,4:00,EUR,CPI (y/y),high,1.50%,1.50%,1
+10/19/2017,3:30,GBP,Core Retail Sales (m/m),high,-0.20%,1.00%,1
+10/19/2017,3:30,GBP,Retail Sales (m/m),high,-0.10%,1.00%,1
+10/19/2017,3:30,GBP,Core Retail Sales (y/y),high,2.20%,2.80%,1
+10/19/2017,3:30,GBP,Retail Sales (y/y),high,2.10%,2.4%*,1
+10/25/2017,3:00,EUR,German IFO Current Conditions,high,123.5,123.6,1
+10/25/2017,3:00,EUR,German IFO Business Climate,high,115,115.2,1
+10/25/2017,3:00,EUR,German IFO Expectations,high,107.3,107.4,1
+10/25/2017,3:30,GBP,GDP (Advanced) (q/q),high,0.30%,0.30%,1
+10/25/2017,3:30,GBP,GDP (Advanced) (y/y),high,1.50%,1.50%,1
+10/26/2017,All Day,EUR,ECB President Draghi gives press conference following interest rate announcement,high,0,0,0
+10/27/2017,9:00,USD,UoM Consumer Sentiment Index,high,100.7,101.1,1
+10/30/2017,All Day,JPY,BoJ Policy Statement and Governor Kuroda Press Conference,high,0,0,0
+10/31/2017,All Day,EUR,French Market Holiday - Day of Reformation,high,0,0,0
+10/31/2017,All Day,EUR,German Market Holiday - Day of Reformation,high,0,0,0
+10/31/2017,All Day,JPY,BoJ Outlook Report,high,0,0,0
+10/31/2017,5:00,EUR,GDP (SA) (Advanced) (q/q),high,0.50%,0.60%,1
+10/31/2017,5:00,EUR,GDP (SA) (Advanced) (y/y),high,2.40%,2.30%,1
+10/31/2017,9:00,USD,Consumer Confidence,high,121.3,119.8,1
+11/1/2017,7:15,USD,ADP National Employment Report,high,200.0k,110.0k*,1
+11/1/2017,9:00,USD,ISM Manufacturing,high,59.4,60.8,1
+11/1/2017,13:00,USD,Federal Reserve FOMC meeting,high,0,0,0
+11/1/2017,13:00,USD,Federal Funds Rate,high,1.25%,1.25%,-1
+11/2/2017,7:00,GBP,BoE Releases Quarterly Inflation Report,high,0,0,0
+11/2/2017,7:00,GBP,BoE MPC minutes released,high,0,0,0
+11/2/2017,7:00,GBP,BoE Bank Rate,high,0.50%,0.25%,-1
+11/2/2017,7:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+11/2/2017,7:30,GBP,BoE's Carney Speaks on Rate Decision,high,0,0,0
+11/3/2017,All Day,JPY,Market Holiday - Culture Day,high,0,0,0
+11/3/2017,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.50%,1
+11/3/2017,7:30,USD,Private Payrolls,high,302.0k,15.0k*,1
+11/3/2017,7:30,USD,Nonfarm Payrolls,high,313.0k,18.0k*,1
+11/3/2017,7:30,USD,Unemployment Rate,high,4.20%,4.20%,-1
+11/3/2017,9:00,USD,ISM Non-Manufacturing,high,58.5,59.8,1
+11/5/2017,17:50,JPY,BoJ Release Minutes,high,0,0,0
+11/10/2017,3:30,GBP,Manufacturing Production (y/y),high,2.40%,2.80%,1
+11/10/2017,9:00,USD,UoM Consumer Sentiment Index,high,100.9,100.7,1
+11/11/2017,All Day,USD,Market Holiday - Veteran's Day,high,0,0,0
+11/12/2017,18:10,USD,Fed's Harker Speaks in Tokyo,high,0,0,0
+11/14/2017,3:30,GBP,CPI (m/m),high,0.20%,0.30%,1
+11/14/2017,3:30,GBP,CPI (y/y),high,3.10%,3.00%,1
+11/14/2017,4:00,EUR,ZEW (Economic Sentiment),high,0,26.7,0
+11/14/2017,4:00,EUR,GDP (SA) (Prelim) (q/q),high,0.60%,0.60%,1
+11/14/2017,4:00,EUR,GDP (SA) (Prelim) (y/y),high,2.50%,2.50%,1
+11/14/2017,4:00,USD,"Fed's Yellen Speaks on ECB Panel with Draghi, Kuroda and Carney",high,0,0,0
+11/14/2017,7:30,USD,PPI (m/m),high,0.10%,0.40%,1
+11/15/2017,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+11/15/2017,7:30,USD,CPI (m/m),high,0.10%,0.50%,1
+11/15/2017,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.20%,1.2%*,1
+11/15/2017,7:30,USD,Retail Sales (m/m),high,0.00%,1.9%*,1
+11/16/2017,3:30,GBP,Core Retail Sales (m/m),high,0.00%,-0.70%,1
+11/16/2017,3:30,GBP,Retail Sales (m/m),high,0.20%,-0.80%,1
+11/16/2017,3:30,GBP,Core Retail Sales (y/y),high,-0.40%,1.60%,1
+11/16/2017,3:30,GBP,Retail Sales (y/y),high,-0.50%,1.20%,1
+11/22/2017,9:00,USD,UoM Consumer Sentiment Index,high,98,97.8,1
+11/23/2017,3:30,GBP,GDP (Prelim) (q/q),high,0.40%,0.40%,1
+11/23/2017,3:30,GBP,GDP (Prelim) (y/y),high,1.50%,1.50%,1
+11/24/2017,3:00,EUR,German IFO Current Conditions,high,125,124.8,1
+11/24/2017,3:00,EUR,German IFO Business Climate,high,116.7,116.7,1
+11/24/2017,3:00,EUR,German IFO Expectations,high,108.8,109.1,1
+11/28/2017,9:00,USD,Consumer Confidence,high,124,126.2*,1
+11/30/2017,4:00,EUR,CPI (y/y),high,1.60%,1.4%*,1
+12/1/2017,9:00,USD,ISM Manufacturing,high,58.3,58.7,1
+12/5/2017,9:00,USD,ISM Non-Manufacturing,high,59,60.1,1
+12/6/2017,7:15,USD,ADP National Employment Report,high,190.0k,235.0k,1
+12/6/2017,8:00,EUR,ECB's Draghi Speaks in Brussels,high,0,0,0
+12/7/2017,4:00,EUR,GDP (SA) (q/q),high,0.60%,0.60%,1
+12/7/2017,4:00,EUR,GDP (SA) (y/y),high,2.50%,2.50%,1
+12/8/2017,3:30,GBP,Manufacturing Production (y/y),high,3.80%,2.70%,1
+12/8/2017,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,-0.1%*,1
+12/8/2017,7:30,USD,Private Payrolls,high,195.0k,247.0k*,1
+12/8/2017,7:30,USD,Nonfarm Payrolls,high,195.0k,244.0k*,1
+12/8/2017,7:30,USD,Unemployment Rate,high,4.10%,4.10%,-1
+12/8/2017,9:00,USD,UoM Consumer Sentiment Index,high,99,98.5,1
+12/12/2017,3:30,GBP,CPI (m/m),high,0.20%,0.10%,1
+12/12/2017,3:30,GBP,CPI (y/y),high,3.00%,3.00%,1
+12/12/2017,4:00,EUR,ZEW (Economic Sentiment),high,0,30.9,0
+12/12/2017,7:30,USD,PPI (m/m),high,0.40%,0.40%,1
+12/13/2017,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+12/13/2017,7:30,USD,CPI (m/m),high,0.40%,0.10%,1
+12/13/2017,13:00,USD,Federal Reserve FOMC meeting,high,0,0,0
+12/13/2017,13:00,USD,Federal Funds Rate,high,1.50%,1.25%,-1
+12/14/2017,All Day,GBP,BoE Monetary Policy Committee Meeting and Rate Decision,high,0,0,0
+12/14/2017,3:30,GBP,Core Retail Sales (m/m),high,0.40%,0.4%*,1
+12/14/2017,3:30,GBP,Retail Sales (m/m),high,0.40%,0.5%*,1
+12/14/2017,3:30,GBP,Core Retail Sales (y/y),high,0.20%,0.0%*,1
+12/14/2017,3:30,GBP,Retail Sales (y/y),high,0.30%,0.0%*,1
+12/14/2017,6:00,GBP,BoE MPC minutes released,high,0,0,0
+12/14/2017,6:00,GBP,BoE Bank Rate,high,0.50%,0.50%,-1
+12/14/2017,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+12/14/2017,7:30,EUR,ECB's Draghi Press Conference Post Interest Rate Decision,high,0,0,0
+12/14/2017,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.60%,0.4%*,1
+12/14/2017,7:30,USD,Retail Sales (m/m),high,0.30%,0.5%*,1
+12/19/2017,3:00,EUR,German IFO Current Conditions,high,0,124.4,0
+12/19/2017,3:00,EUR,German IFO Business Climate,high,0,117.5,0
+12/19/2017,3:00,EUR,German IFO Expectations,high,0,111,0
+12/20/2017,All Day,JPY,BoJ Policy Statement and Governor Kuroda Press Conference,high,0,0,0
+12/22/2017,3:30,GBP,GDP (Final) (q/q),high,0.40%,0.40%,1
+12/22/2017,3:30,GBP,GDP (Final) (y/y),high,1.50%,1.50%,1
+12/22/2017,9:00,USD,UoM Consumer Sentiment Index,high,97.2,96.8,1
+12/25/2017,All Day,GBP,Market Holiday - Christmas Day,high,0,0,0
+12/25/2017,All Day,GBP,Market Holiday - Christmas Day,high,0,0,0
+12/25/2017,All Day,EUR,German Market Holiday - Christmas Day,high,0,0,0
+12/25/2017,All Day,EUR,French Market Holiday - Christmas Day,high,0,0,0
+12/25/2017,All Day,EUR,German Market Holiday - Christmas Day,high,0,0,0
+12/25/2017,All Day,USD,Market Holiday - Christmas Day,high,0,0,0
+12/26/2017,All Day,EUR,German Market Holiday - Boxing Day,high,0,0,0
+12/26/2017,All Day,GBP,Market Holiday - Boxing Day ,high,0,0,0
+12/26/2017,All Day,EUR,German Market Holiday - Boxing Day,high,0,0,0
+12/26/2017,All Day,GBP,Market Holiday - Boxing Day,high,0,0,0
+12/27/2017,9:00,USD,Consumer Confidence,high,128,128.6*,1
+1/3/2018,9:00,USD,ISM Manufacturing,high,58.2,58.2,1
+1/3/2018,13:00,USD,FOMC Releases Monetary Policy Meeting Minutes,high,0,0,0
+1/4/2018,7:15,USD,ADP National Employment Report,high,190.0k,190.0k,1
+1/5/2018,4:00,EUR,CPI (y/y),high,1.40%,1.50%,1
+1/5/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.1%*,1
+1/5/2018,7:30,USD,Private Payrolls,high,193.0k,239.0k*,1
+1/5/2018,7:30,USD,Nonfarm Payrolls,high,190.0k,252.0k*,1
+1/5/2018,7:30,USD,Unemployment Rate,high,4.10%,4.10%,-1
+1/5/2018,9:00,USD,ISM Non-Manufacturing,high,57.6,57.4,1
+1/10/2018,2:30,GBP,Manufacturing Production (y/y),high,2.80%,4.7%*,1
+1/11/2018,7:30,USD,PPI (m/m),high,0.20%,0.40%,1
+1/12/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.40%,1.3%*,1
+1/12/2018,7:30,USD,Retail Sales (m/m),high,0.50%,0.9%*,1
+1/12/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+1/12/2018,7:30,USD,CPI (m/m),high,0.10%,0.40%,1
+1/12/2018,15:15,USD,Fed's Rosengren Speaks in San Diego,high,0,0,0
+1/16/2018,3:30,GBP,CPI (m/m),high,0.40%,0.30%,1
+1/16/2018,3:30,GBP,CPI (y/y),high,3.00%,3.10%,1
+1/19/2018,3:30,GBP,Core Retail Sales (m/m),high,-1.00%,1.1%*,1
+1/19/2018,3:30,GBP,Retail Sales (m/m),high,-1.00%,1.0%*,1
+1/19/2018,3:30,GBP,Retail Sales (y/y),high,2.60%,1.5%*,1
+1/19/2018,3:30,GBP,Core Retail Sales (y/y),high,2.60%,1.50%,1
+1/19/2018,9:00,USD,UoM Consumer Sentiment Index,high,97,95.9,1
+1/22/2018,All Day,JPY,BoJ Monetary Policy Meeting,high,0,0,0
+1/23/2018,4:00,EUR,ZEW (Economic Sentiment),high,0,29,0
+1/25/2018,All Day,EUR,ECB's Draghi Press Conference Post Rate Meeting,high,0,0,0
+1/25/2018,3:00,EUR,German IFO Expectations,high,109.3,109.5,1
+1/25/2018,3:00,EUR,German IFO Current Conditions,high,125.3,125.5*,1
+1/25/2018,3:00,EUR,German IFO Business Climate,high,117,117.2,1
+1/25/2018,17:50,JPY,BoJ Monetary Policy Meeting Minutes,high,0,0,0
+1/26/2018,3:30,GBP,GDP (q/q),high,0.40%,0.40%,1
+1/26/2018,3:30,GBP,GDP (y/y),high,1.40%,1.70%,1
+1/30/2018,4:00,EUR,GDP (SA) (q/q),high,0.60%,0.60%,1
+1/30/2018,4:00,EUR,GDP (SA) (y/y),high,2.70%,2.60%,1
+1/30/2018,9:00,USD,Consumer Confidence,high,123,123.1*,1
+1/30/2018,10:30,EUR,ECB's Mersch Speaks in Frankfurt,high,0,0,0
+1/30/2018,17:50,JPY,BoJ Releases Summary of Opinions,high,0,0,0
+1/31/2018,7:15,USD,ADP National Employment Report,high,183.0k,242.0k*,1
+1/31/2018,7:30,USD,US  Quarterly Treasury Refunding Announcement,high,0,0,0
+1/31/2018,13:00,USD,Federal Funds Rate,high,1.50%,1.50%,-1
+2/1/2018,9:00,USD,ISM Manufacturing,high,58.6,59.3*,1
+2/2/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.4%*,1
+2/2/2018,7:30,USD,Unemployment Rate,high,4.10%,4.10%,-1
+2/2/2018,7:30,USD,Private Payrolls,high,181.0k,166.0k*,1
+2/2/2018,7:30,USD,Nonfarm Payrolls,high,180.0k,160.0k*,1
+2/2/2018,9:00,USD,UoM Consumer Sentiment Index,high,95,94.4,1
+2/5/2018,9:00,USD,ISM Non-Manufacturing,high,56.5,56.0*,1
+2/8/2018,6:00,GBP,BoE Bank Rate,high,0.50%,0.50%,-1
+2/8/2018,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+2/9/2018,3:30,GBP,Manufacturing Production (y/y),high,1.20%,3.50%,1
+2/13/2018,3:30,GBP,CPI (m/m),high,-0.60%,0.40%,1
+2/13/2018,3:30,GBP,CPI (y/y),high,2.90%,3.00%,1
+2/14/2018,4:00,EUR,GDP (SA) (q/q),high,0.60%,0.60%,1
+2/14/2018,4:00,EUR,GDP (SA) (y/y),high,2.70%,2.70%,1
+2/14/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.2%*,1
+2/14/2018,7:30,USD,CPI (m/m),high,0.30%,0.2%*,1
+2/14/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.50%,0.1%*,1
+2/14/2018,7:30,USD,Retail Sales (m/m),high,0.20%,0.40%,1
+2/15/2018,7:30,USD,PPI (m/m),high,0.40%,0.0%*,1
+2/16/2018,3:30,GBP,Core Retail Sales (m/m),high,0.60%,-1.60%,1
+2/16/2018,3:30,GBP,Retail Sales (m/m),high,0.50%,-1.50%,1
+2/16/2018,3:30,GBP,Core Retail Sales (y/y),high,2.40%,1.30%,1
+2/16/2018,3:30,GBP,Retail Sales (y/y),high,2.50%,1.40%,1
+2/16/2018,9:00,USD,UoM Consumer Sentiment Index,high,95.4,95.7,1
+2/20/2018,4:00,EUR,ZEW (Economic Sentiment),high,0,31.8,0
+2/22/2018,3:00,EUR,German IFO Business Climate,high,117,117.6,1
+2/22/2018,3:00,EUR,German IFO Expectations,high,107.9,108.3*,1
+2/22/2018,3:00,EUR,German IFO Current Conditions,high,127,127.8*,1
+2/22/2018,3:30,GBP,GDP (q/q),high,0.50%,0.50%,1
+2/22/2018,3:30,GBP,GDP (y/y),high,1.50%,1.50%,1
+2/27/2018,9:00,USD,Consumer Confidence,high,126.4,124.3*,1
+2/28/2018,4:00,EUR,CPI (y/y),high,1.20%,1.3%*,1
+3/1/2018,9:00,USD,ISM Manufacturing,high,58.7,59.1,1
+3/2/2018,9:00,USD,UoM Consumer Sentiment Index,high,99.5,99.9,1
+3/5/2018,9:00,USD,ISM Non-Manufacturing,high,58.5,59.9,1
+3/7/2018,4:00,EUR,GDP (SA) (q/q),high,0.60%,0.60%,1
+3/7/2018,4:00,EUR,GDP (SA) (y/y),high,2.70%,2.70%,1
+3/7/2018,7:15,USD,ADP National Employment Report,high,200.0k,244.0k*,1
+3/8/2018,18:00,GBP,Manufacturing Production (y/y),high,2.80%,1.40%,1
+3/9/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.30%,1
+3/9/2018,7:30,USD,Private Payrolls,high,205.0k,238.0k*,1
+3/9/2018,7:30,USD,Nonfarm Payrolls,high,205.0k,239.0k*,1
+3/9/2018,7:30,USD,Unemployment Rate,high,4.00%,4.10%,-1
+3/13/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.30%,1
+3/13/2018,7:30,USD,CPI (m/m),high,0.20%,0.50%,1
+3/14/2018,7:30,USD,PPI (m/m),high,0.10%,0.40%,1
+3/14/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.40%,0.1%*,1
+3/14/2018,7:30,USD,Retail Sales (m/m),high,0.30%,-0.1%*,1
+3/16/2018,9:00,USD,UoM Consumer Sentiment Index,high,99.2,99.7,1
+3/20/2018,4:30,GBP,CPI (m/m),high,0.50%,-0.50%,1
+3/20/2018,4:30,GBP,CPI (y/y),high,2.80%,3.00%,1
+3/20/2018,5:00,EUR,ZEW (Economic Sentiment),high,0,29.3,0
+3/21/2018,13:00,USD,Federal Funds Rate,high,1.75%,1.50%,-1
+3/22/2018,4:00,EUR,German IFO Expectations,high,104.4,105.4,1
+3/22/2018,4:00,EUR,German IFO Current Conditions,high,125.6,126.3,1
+3/22/2018,4:00,EUR,German IFO Business Climate,high,114.6,115.4,1
+3/22/2018,4:30,GBP,Core Retail Sales (m/m),high,0.40%,0.2%*,1
+3/22/2018,4:30,GBP,Retail Sales (m/m),high,0.30%,-0.2%*,1
+3/22/2018,4:30,GBP,Core Retail Sales (y/y),high,1.20%,1.3%*,1
+3/22/2018,4:30,GBP,Retail Sales (y/y),high,1.40%,1.5%*,1
+3/22/2018,7:00,GBP,BoE Bank Rate,high,0.50%,0.50%,-1
+3/22/2018,7:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+3/27/2018,9:00,USD,Consumer Confidence,high,131,130.0*,1
+3/29/2018,3:30,GBP,GDP (q/q),high,0.40%,0.40%,1
+3/29/2018,3:30,GBP,GDP (y/y),high,1.40%,1.40%,1
+3/29/2018,9:00,USD,UoM Consumer Sentiment Index,high,102,102,1
+4/2/2018,9:00,USD,ISM Manufacturing,high,60,60.8,1
+4/4/2018,7:15,USD,ADP National Employment Report,high,210.0k,246.0k*,1
+4/4/2018,9:00,USD,ISM Non-Manufacturing,high,59,59.5,1
+4/6/2018,7:30,USD,Unemployment Rate,high,4.00%,4.10%,-1
+4/6/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.10%,1
+4/6/2018,7:30,USD,Nonfarm Payrolls,high,185.0k,326.0k*,1
+4/6/2018,7:30,USD,Private Payrolls,high,190.0k,320.0k*,1
+4/10/2018,7:30,USD,PPI (m/m),high,0.10%,0.20%,1
+4/11/2018,3:30,GBP,Manufacturing Production (y/y),high,3.30%,2.2%*,1
+4/11/2018,7:30,USD,CPI (m/m),high,0.00%,0.20%,1
+4/11/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+4/13/2018,9:00,USD,UoM Consumer Sentiment Index,high,100.5,101.4,1
+4/16/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.20%,0.20%,1
+4/16/2018,7:30,USD,Retail Sales (m/m),high,0.40%,-0.10%,1
+4/17/2018,4:00,EUR,ZEW (Economic Sentiment),high,0,13.4,0
+4/18/2018,3:30,GBP,CPI (m/m),high,0.30%,0.40%,1
+4/18/2018,3:30,GBP,CPI (y/y),high,2.70%,2.70%,1
+4/19/2018,3:30,GBP,Core Retail Sales (m/m),high,-0.40%,0.4%*,1
+4/19/2018,3:30,GBP,Retail Sales (m/m),high,-0.60%,0.80%,1
+4/19/2018,3:30,GBP,Core Retail Sales (y/y),high,1.40%,1.2%*,1
+4/19/2018,3:30,GBP,Retail Sales (y/y),high,1.90%,1.50%,1
+4/24/2018,3:00,EUR,German IFO Expectations,high,99.5,100.0*,1
+4/24/2018,3:00,EUR,German IFO Current Conditions,high,106.5,106.6*,1
+4/24/2018,3:00,EUR,German IFO Business Climate,high,102.8,103.3*,1
+4/24/2018,9:00,USD,Consumer Confidence,high,126,127.0*,1
+4/27/2018,3:30,GBP,GDP (q/q),high,0.30%,0.40%,1
+4/27/2018,3:30,GBP,GDP (y/y),high,1.40%,1.40%,1
+4/27/2018,9:00,USD,UoM Consumer Sentiment Index,high,98,97.8,1
+5/1/2018,9:00,USD,ISM Manufacturing,high,58.4,59.3,1
+5/2/2018,4:00,EUR,GDP (SA) (q/q),high,0.40%,0.7%*,1
+5/2/2018,4:00,EUR,GDP (SA) (y/y),high,2.50%,2.8%*,1
+5/2/2018,7:15,USD,ADP National Employment Report,high,198.0k,228.0k*,1
+5/2/2018,13:00,USD,Federal Funds Rate,high,1.75%,1.75%,-1
+5/3/2018,9:00,USD,ISM Non-Manufacturing,high,58,58.8,1
+5/4/2018,7:30,USD,Unemployment Rate,high,4.00%,4.10%,-1
+5/4/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.2%*,1
+5/4/2018,7:30,USD,Nonfarm Payrolls,high,192.0k,135.0k*,1
+5/4/2018,7:30,USD,Private Payrolls,high,190.0k,135.0k*,1
+5/9/2018,7:30,USD,PPI (m/m),high,0.20%,0.30%,1
+5/10/2018,3:30,GBP,Manufacturing Production (y/y),high,2.90%,2.50%,1
+5/10/2018,6:00,GBP,BoE Bank Rate,high,0.50%,0.50%,-1
+5/10/2018,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+5/10/2018,7:30,USD,CPI (m/m),high,0.30%,-0.10%,1
+5/10/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+5/11/2018,9:00,USD,UoM Consumer Sentiment Index,high,98.3,98.8,1
+5/15/2018,4:00,EUR,GDP (SA) (q/q),high,0.40%,0.40%,1
+5/15/2018,4:00,EUR,GDP (SA) (y/y),high,2.50%,2.50%,1
+5/15/2018,4:00,EUR,ZEW (Economic Sentiment),high,0,1.9,0
+5/15/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.50%,0.4%*,1
+5/15/2018,7:30,USD,Retail Sales (m/m),high,0.30%,0.8%*,1
+5/23/2018,3:30,GBP,CPI (m/m),high,0.50%,0.10%,1
+5/23/2018,3:30,GBP,CPI (y/y),high,2.50%,2.50%,1
+5/24/2018,3:30,GBP,Core Retail Sales (m/m),high,0.50%,-0.50%,1
+5/24/2018,3:30,GBP,Retail Sales (m/m),high,0.90%,-1.1%*,1
+5/24/2018,3:30,GBP,Core Retail Sales (y/y),high,0.20%,1.3%*,1
+5/24/2018,3:30,GBP,Retail Sales (y/y),high,0.30%,1.3%*,1
+5/25/2018,3:00,EUR,German IFO Expectations,high,98.5,98.7,1
+5/25/2018,3:00,EUR,German IFO Current Conditions,high,105.5,105.7,1
+5/25/2018,3:00,EUR,German IFO Business Climate,high,102,102.1,1
+5/25/2018,3:30,GBP,GDP (q/q),high,0.10%,0.10%,1
+5/25/2018,3:30,GBP,GDP (y/y),high,1.20%,1.20%,1
+5/25/2018,9:00,USD,UoM Consumer Sentiment Index,high,98.8,98.8,1
+5/29/2018,9:00,USD,Consumer Confidence,high,128,125.6*,1
+5/30/2018,7:15,USD,ADP National Employment Report,high,190.0k,163.0k*,1
+6/1/2018,7:30,USD,Unemployment Rate,high,3.90%,3.90%,-1
+6/1/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.10%,1
+6/1/2018,7:30,USD,Nonfarm Payrolls,high,190.0k,159.0k*,1
+6/1/2018,7:30,USD,Private Payrolls,high,190.0k,162.0k*,1
+6/1/2018,9:00,USD,ISM Manufacturing,high,58.2,57.3,1
+6/5/2018,9:00,USD,ISM Non-Manufacturing,high,58,56.8,1
+6/7/2018,4:00,EUR,GDP (SA) (q/q),high,0.40%,0.40%,1
+6/7/2018,4:00,EUR,GDP (SA) (y/y),high,2.50%,2.50%,1
+6/11/2018,3:30,GBP,Manufacturing Production (y/y),high,0,2.90%,0
+6/12/2018,4:00,EUR,ZEW (Economic Sentiment),high,0,2.4,0
+6/12/2018,7:30,USD,CPI (m/m),high,0.20%,0.20%,1
+6/12/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+6/13/2018,3:30,GBP,CPI (m/m),high,0.40%,0.40%,1
+6/13/2018,3:30,GBP,CPI (y/y),high,2.40%,2.40%,1
+6/13/2018,7:30,USD,PPI (m/m),high,0.30%,0.10%,1
+6/13/2018,13:00,USD,Federal Funds Rate,high,2.00%,1.75%,-1
+6/14/2018,3:30,GBP,Core Retail Sales (m/m),high,0.30%,1.4%*,1
+6/14/2018,3:30,GBP,Retail Sales (m/m),high,0.50%,1.8%*,1
+6/14/2018,3:30,GBP,Core Retail Sales (y/y),high,2.50%,1.4%*,1
+6/14/2018,3:30,GBP,Retail Sales (y/y),high,2.40%,1.40%,1
+6/14/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.50%,0.4%*,1
+6/14/2018,7:30,USD,Retail Sales (m/m),high,0.40%,0.4%*,1
+6/15/2018,9:00,USD,UoM Consumer Sentiment Index,high,98.5,98,1
+6/21/2018,6:00,GBP,BoE Bank Rate,high,0.50%,0.50%,-1
+6/21/2018,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+6/25/2018,3:00,EUR,German IFO Business Climate,high,101.8,102.3*,1
+6/25/2018,3:00,EUR,German IFO Expectations,high,98,98.6*,1
+6/25/2018,3:00,EUR,German IFO Current Conditions,high,105.7,106.1*,1
+6/26/2018,9:00,USD,Consumer Confidence,high,128,128.8*,1
+6/29/2018,3:30,GBP,GDP (q/q),high,0.10%,0.10%,1
+6/29/2018,3:30,GBP,GDP (y/y),high,1.20%,1.20%,1
+6/29/2018,9:00,USD,UoM Consumer Sentiment Index,high,99,99.3,1
+7/2/2018,9:00,USD,ISM Manufacturing,high,58.5,58.7,1
+7/5/2018,7:15,USD,ADP National Employment Report,high,190.0k,178.0k,1
+7/5/2018,9:00,USD,ISM Non-Manufacturing,high,58.3,58.6,1
+7/6/2018,7:30,USD,Unemployment Rate,high,3.80%,3.80%,-1
+7/6/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.30%,1
+7/6/2018,7:30,USD,Nonfarm Payrolls,high,195.0k,244.0k*,1
+7/6/2018,7:30,USD,Private Payrolls,high,190.0k,239.0k*,1
+7/10/2018,3:30,GBP,Manufacturing Production (y/y),high,1.90%,1.40%,1
+7/10/2018,4:00,EUR,ZEW (Economic Sentiment),high,0,-12.6*,0
+7/11/2018,7:30,USD,PPI (m/m),high,0.20%,0.50%,1
+7/12/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+7/12/2018,7:30,USD,CPI (m/m),high,0.20%,0.20%,1
+7/13/2018,9:00,USD,UoM Consumer Sentiment Index,high,98,98.2,1
+7/16/2018,7:30,USD,Retail Sales (m/m),high,0.50%,1.3%*,1
+7/16/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.30%,1.3%*,1
+7/18/2018,3:30,GBP,CPI (m/m),high,0.20%,0.40%,1
+7/18/2018,3:30,GBP,CPI (y/y),high,2.60%,2.40%,1
+7/19/2018,3:30,GBP,Core Retail Sales (m/m),high,0.10%,1.4%*,1
+7/19/2018,3:30,GBP,Retail Sales (m/m),high,0.20%,1.4%*,1
+7/19/2018,3:30,GBP,Core Retail Sales (y/y),high,3.70%,4.5%*,1
+7/19/2018,3:30,GBP,Retail Sales (y/y),high,3.50%,4.1%*,1
+7/25/2018,3:00,EUR,German IFO Expectations,high,98.3,98.6,1
+7/25/2018,3:00,EUR,German IFO Current Conditions,high,104.9,105.1,1
+7/25/2018,3:00,EUR,German IFO Business Climate,high,101.5,101.8,1
+7/26/2018,3:30,GBP,GDP (q/q),high,0,0.20%,0
+7/26/2018,3:30,GBP,GDP (y/y),high,0,1.20%,0
+7/27/2018,9:00,USD,UoM Consumer Sentiment Index,high,97.1,97.1,1
+7/31/2018,4:00,EUR,GDP (SA) (q/q),high,0.40%,0.40%,1
+7/31/2018,4:00,EUR,GDP (SA) (y/y),high,2.20%,2.50%,1
+7/31/2018,9:00,USD,Consumer Confidence,high,126,127.1*,1
+8/1/2018,7:15,USD,ADP National Employment Report,high,186.0k,181.0k*,1
+8/1/2018,13:00,USD,Federal Funds Rate,high,2.00%,2.00%,-1
+8/2/2018,6:00,GBP,BoE Bank Rate,high,0.75%,0.50%,-1
+8/2/2018,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+8/3/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.1%*,1
+8/3/2018,7:30,USD,Nonfarm Payrolls,high,193.0k,248.0k*,1
+8/3/2018,7:30,USD,Private Payrolls,high,190.0k,234.0k*,1
+8/3/2018,7:30,USD,Unemployment Rate,high,3.90%,4.00%,-1
+8/3/2018,9:00,USD,ISM Non-Manufacturing,high,58.6,59.1,1
+8/9/2018,7:30,USD,PPI (m/m),high,0.20%,0.30%,1
+8/10/2018,3:30,GBP,Manufacturing Production (y/y),high,1.00%,1.10%,1
+8/10/2018,7:30,USD,CPI (m/m),high,0.20%,0.10%,1
+8/10/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+8/14/2018,4:00,EUR,GDP (SA) (q/q),high,0.30%,0.30%,1
+8/14/2018,4:00,EUR,GDP (SA) (y/y),high,2.10%,2.10%,1
+8/14/2018,4:00,EUR,ZEW (Economic Sentiment),high,0,-18.7,0
+8/15/2018,3:30,GBP,CPI (m/m),high,0.00%,0.00%,1
+8/15/2018,3:30,GBP,CPI (y/y),high,2.50%,2.40%,1
+8/15/2018,7:30,USD,Retail Sales (m/m),high,0.10%,0.2%*,1
+8/15/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.30%,0.2%*,1
+8/16/2018,3:30,GBP,Core Retail Sales (m/m),high,0.00%,-0.60%,1
+8/16/2018,3:30,GBP,Retail Sales (m/m),high,0.20%,-0.50%,1
+8/16/2018,3:30,GBP,Retail Sales (y/y),high,2.90%,2.90%,1
+8/16/2018,3:30,GBP,Core Retail Sales (y/y),high,2.80%,3.00%,1
+8/17/2018,9:00,USD,UoM Consumer Sentiment Index,high,98,97.9,1
+8/27/2018,3:00,EUR,German IFO Business Climate,high,101.8,101.7,1
+8/27/2018,3:00,EUR,German IFO Expectations,high,98.5,98.2,1
+8/27/2018,3:00,EUR,German IFO Current Conditions,high,105.3,105.4*,1
+8/28/2018,9:00,USD,Consumer Confidence,high,126.5,127.9*,1
+8/31/2018,9:00,USD,UoM Consumer Sentiment Index,high,95.5,95.3,1
+9/6/2018,7:15,USD,ADP National Employment Report,high,200.0k,217.0k*,1
+9/6/2018,9:00,USD,ISM Non-Manufacturing,high,56.8,55.7,1
+9/7/2018,4:00,EUR,GDP (SA) (y/y),high,2.20%,2.20%,1
+9/7/2018,4:00,EUR,GDP (SA) (q/q),high,0.40%,0.40%,1
+9/7/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.30%,1
+9/7/2018,7:30,USD,Nonfarm Payrolls,high,191.0k,147.0k*,1
+9/7/2018,7:30,USD,Private Payrolls,high,194.0k,153.0k*,1
+9/7/2018,7:30,USD,Unemployment Rate,high,3.80%,3.90%,-1
+9/9/2018,18:50,JPY,GDP,high,0.70%,0.50%,1
+9/10/2018,3:30,GBP,Manufacturing Production (y/y),high,1.30%,1.50%,1
+9/11/2018,4:00,EUR,ZEW (Economic Sentiment),high,0,-11.1,0
+9/12/2018,7:30,USD,PPI (m/m),high,0.20%,0.00%,1
+9/13/2018,6:00,GBP,BoE Bank Rate,high,0.75%,0.75%,-1
+9/13/2018,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+9/13/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+9/13/2018,7:30,USD,CPI (m/m),high,0.30%,0.20%,1
+9/14/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.50%,0.9%*,1
+9/14/2018,7:30,USD,Retail Sales (m/m),high,0.40%,0.7%*,1
+9/14/2018,9:00,USD,UoM Consumer Sentiment Index,high,96.6,96.2,1
+9/19/2018,3:30,GBP,CPI (m/m),high,0.50%,0.00%,1
+9/19/2018,3:30,GBP,CPI (y/y),high,2.40%,2.50%,1
+9/20/2018,3:30,GBP,Core Retail Sales (m/m),high,-0.20%,1.1%*,1
+9/20/2018,3:30,GBP,Retail Sales (m/m),high,-0.20%,0.9%*,1
+9/20/2018,3:30,GBP,Retail Sales (y/y),high,2.30%,3.8%*,1
+9/20/2018,3:30,GBP,Core Retail Sales (y/y),high,2.40%,4.0%*,1
+9/24/2018,3:00,EUR,German IFO Expectations,high,100.2,101.2,1
+9/24/2018,3:00,EUR,German IFO Current Conditions,high,106.2,106.4,1
+9/24/2018,3:00,EUR,German IFO Business Climate,high,103.6,103.8,1
+9/25/2018,9:00,USD,Consumer Confidence,high,132,134.7*,1
+9/28/2018,9:00,USD,UoM Consumer Sentiment Index,high,100.6,100.8,1
+10/2/2018,11:45,USD,Fed's Powell Speaks in Boston,high,0,0,0
+10/3/2018,7:15,USD,ADP National Employment Report,high,184.0k,168.0k*,1
+10/3/2018,9:00,USD,ISM Non-Manufacturing,high,58,58.5,1
+10/3/2018,16:00,USD,Fed's Powell Speaks in Washington D.C.,high,0,0,0
+10/5/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.3%*,1
+10/5/2018,7:30,USD,Nonfarm Payrolls,high,185.0k,270.0k*,1
+10/5/2018,7:30,USD,Private Payrolls,high,180.0k,254.0k*,1
+10/5/2018,7:30,USD,Unemployment Rate,high,3.80%,3.90%,-1
+10/10/2018,3:30,GBP,Manufacturing Production (y/y),high,1.10%,1.4%*,1
+10/10/2018,7:30,USD,PPI (m/m),high,0.20%,-0.10%,1
+10/11/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+10/11/2018,7:30,USD,CPI (m/m),high,0.20%,0.20%,1
+10/12/2018,9:00,USD,UoM Consumer Sentiment Index,high,100.8,100.1,1
+10/15/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.50%,0.2%*,1
+10/15/2018,7:30,USD,Retail Sales (m/m),high,0.60%,0.10%,1
+10/16/2018,4:00,EUR,ZEW (Economic Sentiment),high,-9.1,-7.2,1
+10/17/2018,3:30,GBP,CPI (m/m),high,0.50%,0.70%,1
+10/17/2018,3:30,GBP,CPI (y/y),high,2.80%,2.70%,1
+10/17/2018,13:00,USD,FOMC Minutes,high,0,0,0
+10/18/2018,3:30,GBP,Retail Sales (m/m),high,-0.40%,0.4%*,1
+10/18/2018,3:30,GBP,Core Retail Sales (m/m),high,-0.40%,0.5%*,1
+10/18/2018,3:30,GBP,Retail Sales (y/y),high,3.60%,3.4%*,1
+10/18/2018,3:30,GBP,Core Retail Sales (y/y),high,3.80%,3.6%*,1
+10/19/2018,1:30,JPY,BoJ's Kuroda Speaks in Tokyo,high,0,0,0
+10/19/2018,10:30,GBP,BoE's Carney Speaks in New York,high,0,0,0
+10/24/2018,2:30,EUR,German Composite PMI,high,54.8,55,1
+10/25/2018,3:00,EUR,German IFO Current Conditions,high,106,106.4,1
+10/25/2018,3:00,EUR,German IFO Business Climate,high,103.2,103.7,1
+10/25/2018,3:00,EUR,German IFO Expectations,high,100.4,101,1
+10/25/2018,6:45,EUR,ECB Main Refinancing Rate,high,0.00%,0.00%,-1
+10/25/2018,6:45,EUR,ECB Deposit Rate,high,-0.40%,-0.40%,-1
+10/25/2018,7:30,EUR,ECB's Draghi Press Conference Post Rate Decision,high,0,0,0
+10/26/2018,9:00,USD,UoM Consumer Sentiment Index,high,99,99,1
+10/26/2018,9:00,EUR,ECB's Draghi Speaks in Brussels,high,0,0,0
+10/29/2018,All Day,GBP,Chancellor Philip Hammond Delivers Autumn Budget Statement,high,0,0,0
+10/30/2018,4:00,EUR,GDP (SA) (y/y),high,1.80%,2.10%,1
+10/30/2018,4:00,EUR,GDP (SA) (q/q),high,0.40%,0.40%,1
+10/30/2018,9:00,USD,Consumer Confidence,high,135.9,135.3*,1
+10/30/2018,18:00,JPY,BoJ MPC - Overnight Rate,high,0,-0.10%,0
+10/31/2018,All Day,JPY,BoJ Monetary Policy Meeting,high,0,0,0
+10/31/2018,7:15,USD,ADP National Employment Report,high,187.0k,218.0k*,1
+11/1/2018,All Day,GBP,BoE Inflation Report Publication,high,0,0,0
+11/1/2018,7:00,GBP,BoE Bank Rate,high,0.75%,0.75%,-1
+11/1/2018,7:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+11/1/2018,7:00,GBP,BoE Rate Decision and Minutes of Meeting,high,0,0,0
+11/1/2018,7:30,GBP,BoE's Carney Speaks in London,high,0,0,0
+11/2/2018,7:30,USD,Unemployment Rate,high,3.70%,3.70%,-1
+11/2/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.30%,1
+11/2/2018,7:30,USD,Nonfarm Payrolls,high,200.0k,118.0k*,1
+11/2/2018,7:30,USD,Private Payrolls,high,195.0k,121.0k,1
+11/5/2018,9:00,USD,ISM Non-Manufacturing,high,59.1,61.6,1
+11/6/2018,All Day,USD,Mid-Term Elections,high,0,0,0
+11/8/2018,12:00,USD,Federal Funds Rate,high,2.25%,2.25%,-1
+11/8/2018,13:00,USD,FOMC Interest Rate Decision,high,0,0,0
+11/9/2018,3:30,GBP,GDP (m/m),high,0.10%,0.00%,1
+11/9/2018,3:30,GBP,Manufacturing Production (y/y),high,0.40%,1.30%,1
+11/9/2018,3:30,GBP,GDP (q/q),high,0.60%,0.40%,1
+11/9/2018,7:30,USD,PPI (m/m),high,0.20%,0.20%,1
+11/9/2018,9:00,USD,UoM Consumer Sentiment Index,high,98,98.6,1
+11/13/2018,4:00,EUR,ZEW (Economic Sentiment),high,0,-19.4,0
+11/13/2018,17:50,JPY,GDP,high,-0.30%,0.70%,1
+11/14/2018,3:30,GBP,CPI (m/m),high,0.20%,0.10%,1
+11/14/2018,3:30,GBP,CPI (y/y),high,2.50%,2.40%,1
+11/14/2018,4:00,EUR,GDP (SA) (q/q),high,0.20%,0.20%,1
+11/14/2018,4:00,EUR,GDP (SA) (y/y),high,1.70%,1.70%,1
+11/14/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.1%*,1
+11/14/2018,7:30,USD,CPI (m/m),high,0.30%,0.1%*,1
+11/14/2018,17:00,USD,Fed's Powell Speaks in Dallas,high,0,0,0
+11/15/2018,3:30,GBP,Retail Sales (m/m),high,0.20%,-0.80%,1
+11/15/2018,3:30,GBP,Core Retail Sales (m/m),high,0.20%,-0.80%,1
+11/15/2018,3:30,GBP,Retail Sales (y/y),high,2.80%,3.00%,1
+11/15/2018,3:30,GBP,Core Retail Sales (y/y),high,3.40%,3.20%,1
+11/15/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.50%,-0.10%,1
+11/15/2018,7:30,USD,Retail Sales (m/m),high,0.50%,-0.1%*,1
+11/15/2018,10:30,USD,Fed's Powell Speaks in Houston,high,0,0,0
+11/21/2018,9:00,USD,UoM Consumer Sentiment Index,high,98.3,98.3,1
+11/22/2018,All Day,USD,Market Holiday - Thanksgiving,high,0,0,0
+11/22/2018,6:30,EUR,ECB Publishes Account of Policy Meeting,high,0,0,0
+11/23/2018,1:30,EUR,German Composite PMI,high,53.1,53.4,1
+11/26/2018,3:00,EUR,German IFO Current Conditions,high,105.2,105.9,1
+11/26/2018,3:00,EUR,German IFO Business Climate,high,102.2,102.8,1
+11/26/2018,3:00,EUR,German IFO Expectations,high,99.2,99.8,1
+11/26/2018,8:00,EUR,ECB's Draghi Speaks in Brussels,high,0,0,0
+11/26/2018,12:30,GBP,BoE's Carney and Former Fed Chair Greenspan Speak in London,high,0,0,0
+11/27/2018,9:00,USD,Consumer Confidence,high,135.9,137.9,1
+11/28/2018,1:30,GBP,BoE's Carney FSR Press Conference in London,high,0,0,0
+11/28/2018,11:00,USD,Fed's Powell Speaks in New York,high,0,0,0
+11/29/2018,2:00,EUR,ECB's Draghi Speaks in Frankfurt,high,0,0,0
+11/29/2018,5:30,EUR,ECB Publishes Financial Stability Review,high,0,0,0
+11/29/2018,13:00,USD,FOMC Minutes,high,0,0,0
+12/4/2018,3:00,GBP,BoE's Carney Speaks in Parliament,high,0,0,0
+12/5/2018,1:00,GBP,BoE Financial Stability Report,high,0,0,0
+12/5/2018,1:30,EUR,German Composite PMI,high,52.2,52.2,1
+12/5/2018,2:30,EUR,ECB's Draghi Speaks in Frankfurt,high,0,0,0
+12/6/2018,7:15,USD,ADP National Employment Report,high,195.0k,225.0k*,1
+12/6/2018,9:00,USD,ISM Non-Manufacturing,high,59,60.3,1
+12/7/2018,4:00,EUR,GDP (SA) (q/q),high,0.20%,0.20%,1
+12/7/2018,4:00,EUR,GDP (SA) (y/y),high,1.70%,1.70%,1
+12/7/2018,7:30,USD,Unemployment Rate,high,3.70%,3.70%,-1
+12/7/2018,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.1%*,1
+12/7/2018,7:30,USD,Nonfarm Payrolls,high,198.0k,237.0k*,1
+12/7/2018,7:30,USD,Private Payrolls,high,198.0k,251.0k*,1
+12/7/2018,9:00,USD,UoM Consumer Sentiment Index,high,97,97.5,1
+12/9/2018,17:50,JPY,GDP,high,-0.50%,-0.30%,1
+12/10/2018,3:30,GBP,GDP (m/m),high,0.10%,0.00%,1
+12/11/2018,3:30,GBP,Manufacturing Production (y/y),high,-0.10%,0.50%,1
+12/11/2018,4:00,EUR,ZEW (Economic Sentiment),high,0,-22,0
+12/11/2018,7:30,USD,PPI (m/m),high,0.00%,0.60%,1
+12/12/2018,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+12/12/2018,7:30,USD,CPI (m/m),high,0.00%,0.30%,1
+12/13/2018,All Day,EUR,ECB Monetary Policy Meeting in Frankfurt,high,0,0,0
+12/13/2018,5:45,EUR,ECB Main Refinancing Rate,high,0.00%,0.00%,-1
+12/13/2018,5:45,EUR,ECB Deposit Rate,high,-0.40%,-0.40%,-1
+12/13/2018,6:45,EUR,ECB's Draghi and de Guindos Press Conference Post Rate Decision,high,0,0,0
+12/14/2018,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.20%,1.0%*,1
+12/14/2018,7:30,USD,Retail Sales (m/m),high,0.10%,1.1%*,1
+12/18/2018,3:00,EUR,German IFO Current Conditions,high,104.9,105.4,1
+12/18/2018,3:00,EUR,German IFO Business Climate,high,101.8,102,1
+12/18/2018,3:00,EUR,German IFO Expectations,high,98.3,98.7,1
+12/19/2018,3:30,GBP,CPI (m/m),high,0.20%,0.10%,1
+12/19/2018,3:30,GBP,CPI (y/y),high,2.30%,2.40%,1
+12/19/2018,12:00,USD,Federal Funds Rate,high,2.50%,2.25%,-1
+12/19/2018,13:00,USD,FOMC Interest Rate Decision,high,0,0,0
+12/19/2018,13:30,USD,Fed's Powell Holds Press Conference,high,0,0,0
+12/19/2018,20:30,JPY,BoJ Governor Kuroda Speaks in Tokyo,high,0,0,0
+12/20/2018,All Day,JPY,BoJ Monetary Policy Meeting,high,0,0,0
+12/20/2018,3:30,GBP,Retail Sales (m/m),high,0.30%,-0.50%,1
+12/20/2018,3:30,GBP,Core Retail Sales (m/m),high,0.20%,-0.40%,1
+12/20/2018,3:30,GBP,Core Retail Sales (y/y),high,2.40%,2.70%,1
+12/20/2018,3:30,GBP,Retail Sales (y/y),high,2.00%,2.20%,1
+12/20/2018,5:00,GBP,Official Bank Rate,high,0.75%,0.75%,-1
+12/20/2018,5:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+12/20/2018,6:00,GBP,BoE Summary of Opinions and Minutes of MPC,high,0,0,0
+12/21/2018,3:30,GBP,GDP (q/q),high,0.60%,0.60%,1
+12/21/2018,9:00,USD,UoM Consumer Sentiment Index,high,97.5,97.5,1
+12/25/2018,17:50,JPY,BoJ Minutes,high,0,0,0
+12/26/2018,All Day,JPY,BoJ's Kuroda Speaks in Tokyo,high,0,0,0
+12/27/2018,9:00,USD,Consumer Confidence,high,133.6,136.4*,1
+1/3/2019,7:15,USD,ADP National Employment Report,high,0,157.0k*,0
+1/3/2019,9:00,USD,ISM Manufacturing,high,58.2,59.3,1
+1/4/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.20%,1
+1/4/2019,7:30,USD,Nonfarm Payrolls,high,180.0k,176.0k*,1
+1/4/2019,7:30,USD,Private Payrolls,high,185.0k,173.0k*,1
+1/4/2019,7:30,USD,Unemployment Rate,high,3.70%,3.70%,-1
+1/4/2019,9:15,USD,Fed's Powell Speaks in Atlanta,high,0,0,0
+1/7/2019,9:00,USD,ISM Non-Manufacturing,high,58.5,60.7,1
+1/9/2019,13:00,USD,FOMC Minutes,high,0,0,0
+1/11/2019,3:30,GBP,Manufacturing Production (m/m),high,0.40%,-0.6%*,1
+1/11/2019,3:30,GBP,Manufacturing Production (y/y),high,-0.70%,-1.00%,1
+1/11/2019,3:30,GBP,GDP (m/m),high,0.10%,0.10%,1
+1/11/2019,7:30,USD,CPI (m/m),high,-0.10%,0.00%,1
+1/11/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+1/15/2019,7:30,USD,PPI (m/m),high,-0.10%,0.10%,1
+1/16/2019,3:15,GBP,BoE's Carney testifies on Financial Stability Report,high,0,0,0
+1/16/2019,3:30,GBP,CPI (m/m),high,0.20%,0.20%,1
+1/16/2019,3:30,GBP,CPI (y/y),high,2.10%,2.30%,1
+1/17/2019,9:00,GBP,BoE's Carney and Woods speak in London,high,0,0,0
+1/18/2019,3:30,GBP,Retail Sales (m/m),high,-0.80%,1.3%*,1
+1/18/2019,3:30,GBP,Core Retail Sales (m/m),high,-0.80%,1.0%*,1
+1/18/2019,3:30,GBP,Core Retail Sales (y/y),high,3.80%,3.5%*,1
+1/18/2019,3:30,GBP,Retail Sales (y/y),high,3.60%,3.4%*,1
+1/18/2019,9:00,USD,UoM Consumer Sentiment Index,high,96.8,98.3,1
+1/21/2019,All Day,USD,Market Holiday - Martin L. King Day,high,0,0,0
+1/22/2019,4:00,EUR,ZEW (Economic Sentiment),high,0,-21,0
+1/22/2019,20:30,JPY,BoJ's Kuroda Press Conference,high,0,0,0
+1/23/2019,All Day,JPY,BoJ Monetary Policy Meeting,high,0,0,0
+1/24/2019,All Day,EUR,ECB Monetary Policy Meeting in Frankfurt,high,0,0,0
+1/24/2019,All Day,EUR,ECB's Draghi Press Conference,high,0,0,0
+1/24/2019,4:00,GBP,"BoE's Carney speaks in Davos, Switzerland",high,0,0,0
+1/24/2019,5:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+1/24/2019,5:45,EUR,ECB Deposit Rate,high,-0.40%,-0.40%,-1
+1/24/2019,9:30,GBP,"BoE's Carney speaks in Davos, Switzerland",high,0,0,0
+1/25/2019,3:00,EUR,German IFO Business Climate,high,100.7,101,1
+1/25/2019,3:00,EUR,German IFO Expectations,high,97.1,97.3,1
+1/25/2019,3:00,EUR,German IFO Current Conditions,high,104.2,104.7,1
+1/27/2019,17:50,JPY,BoJ Minutes,high,0,0,0
+1/28/2019,8:30,GBP,"BoE's Carney, Broadbent, Ramsden, Place and Woods Speak",high,0,0,0
+1/29/2019,9:00,USD,Consumer Confidence,high,124,126.6*,1
+1/30/2019,7:15,USD,ADP National Employment Report,high,181.0k,263.0k*,1
+1/30/2019,13:00,USD,Federal Funds Rate,high,2.50%,2.50%,-1
+1/30/2019,13:00,USD,FOMC Interest Rate Decision,high,0,0,0
+1/30/2019,17:50,JPY,BoJ Summary of Opinions,high,0,0,0
+2/1/2019,7:30,USD,Nonfarm Payrolls,high,165.0k,222.0k*,1
+2/1/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.40%,1
+2/1/2019,9:00,USD,ISM Manufacturing,high,54,54.3*,1
+2/1/2019,9:00,USD,UoM Consumer Sentiment Index,high,90.7,90.7,1
+2/5/2019,9:00,USD,ISM Non-Manufacturing,high,57.1,58.0*,1
+2/7/2019,6:00,GBP,Official Bank Rate,high,0.75%,0.75%,-1
+2/7/2019,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+2/11/2019,3:30,GBP,GDP (m/m),high,0.00%,0.20%,1
+2/11/2019,3:30,GBP,Manufacturing Production (m/m),high,0.20%,-0.1%*,1
+2/11/2019,3:30,GBP,Manufacturing Production (y/y),high,-1.10%,-1.2%*,1
+2/11/2019,3:30,GBP,GDP (q/q),high,0.30%,0.60%,1
+2/13/2019,All Day,GBP,PM Theresa May to update House of Commons on Brexit,high,0,0,0
+2/13/2019,3:30,GBP,CPI (m/m),high,-0.70%,0.20%,1
+2/13/2019,3:30,GBP,CPI (y/y),high,1.90%,2.10%,1
+2/13/2019,7:30,USD,CPI (m/m),high,0.10%,0.0%*,1
+2/13/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+2/13/2019,17:50,JPY,GDP (sa) (q/q),high,0.40%,-0.7%*,1
+2/14/2019,All Day,GBP,MPs due to vote on May's Brexit plans,high,0,0,0
+2/14/2019,7:30,USD,PPI (m/m),high,0.10%,-0.1%*,1
+2/14/2019,7:30,USD,Retail Sales (m/m),high,0.10%,0.1%*,1
+2/15/2019,3:30,GBP,Core Retail Sales (m/m),high,0.20%,-1.30%,1
+2/15/2019,3:30,GBP,Core Retail Sales (y/y),high,3.20%,2.9%*,1
+2/15/2019,3:30,GBP,Retail Sales (m/m),high,0.20%,-0.7%*,1
+2/15/2019,3:30,GBP,Retail Sales (y/y),high,3.40%,3.1%*,1
+2/15/2019,9:00,USD,UoM Consumer Sentiment Index,high,93.5,91.2,1
+2/18/2019,All Day,USD,President's Day,high,0,0,0
+2/19/2019,4:00,EUR,ZEW (Economic Sentiment),high,0,-20.9,0
+2/21/2019,3:00,EUR,European Commission's Juncker speaks in Brussels,high,0,0,0
+2/22/2019,3:00,EUR,German IFO Business Climate,high,98.9,99.1,1
+2/22/2019,3:00,EUR,German IFO Expectations,high,94.3,94.2,1
+2/22/2019,3:00,EUR,German IFO Current Conditions,high,103.9,104.3,1
+2/22/2019,9:00,EUR,French Bank of France's Villeroy speaks in Lisbon,high,0,0,0
+2/26/2019,9:00,USD,Consumer Confidence,high,124.7,121.7*,1
+3/1/2019,9:00,USD,ISM Manufacturing,high,55.8,56.6,1
+3/1/2019,9:00,USD,UoM Consumer Sentiment Index,high,95.9,95.5,1
+3/5/2019,9:00,USD,ISM Non-Manufacturing,high,57.4,56.7,1
+3/6/2019,7:15,USD,ADP National Employment Report,high,190.0k,300.0k*,1
+3/7/2019,6:45,EUR,ECB Deposit Rate,high,-0.40%,-0.4%*,-1
+3/7/2019,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+3/7/2019,17:50,JPY,GDP (sa) (q/q),high,0.40%,0.30%,1
+3/8/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.10%,1
+3/8/2019,7:30,USD,Private Payrolls,high,170.0k,308.0k*,1
+3/8/2019,7:30,USD,Unemployment Rate,high,3.90%,4.00%,-1
+3/8/2019,7:30,USD,Nonfarm Payrolls,high,180.0k,311.0k*,1
+3/11/2019,7:30,USD,Retail Sales (m/m),high,0.00%,-1.6%*,1
+3/11/2019,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.30%,-2.1%*,1
+3/12/2019,5:30,GBP,GDP (m/m),high,0.20%,-0.40%,1
+3/12/2019,5:30,GBP,Manufacturing Production (y/y),high,-1.90%,-2.10%,1
+3/12/2019,5:30,GBP,Manufacturing Production (m/m),high,0.20%,-0.70%,1
+3/12/2019,7:30,USD,CPI (m/m),high,0.20%,0.00%,1
+3/12/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+3/13/2019,7:30,USD,PPI (m/m),high,0.20%,-0.10%,1
+3/15/2019,9:00,USD,UoM Consumer Sentiment Index,high,95.6,93.8,1
+3/19/2019,5:00,EUR,ZEW (Economic Sentiment),high,0,-16.6,0
+3/20/2019,4:30,GBP,CPI (m/m),high,0.40%,-0.80%,1
+3/20/2019,4:30,GBP,CPI (y/y),high,1.80%,1.80%,1
+3/20/2019,13:00,USD,Federal Funds Rate,high,2.50%,2.50%,-1
+3/21/2019,4:30,GBP,Core Retail Sales (m/m),high,-0.40%,1.1%*,1
+3/21/2019,4:30,GBP,Core Retail Sales (y/y),high,3.50%,4.0%*,1
+3/21/2019,4:30,GBP,Retail Sales (m/m),high,-0.40%,0.9%*,1
+3/21/2019,4:30,GBP,Retail Sales (y/y),high,3.30%,4.1%*,1
+3/21/2019,7:00,GBP,Official Bank Rate,high,0.75%,0.75%,-1
+3/21/2019,7:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+3/21/2019,18:30,JPY,Natl CPI (y/y),high,0.30%,0.2%*,1
+3/25/2019,4:00,EUR,German IFO Business Climate,high,98.7,98.7*,1
+3/25/2019,4:00,EUR,German IFO Current Conditions,high,103,103.6*,1
+3/25/2019,4:00,EUR,German IFO Expectations,high,94,94.0*,1
+3/26/2019,9:00,USD,Consumer Confidence,high,132.5,131.4,1
+3/29/2019,4:30,GBP,GDP (q/q),high,0.20%,0.20%,1
+3/29/2019,9:00,USD,UoM Consumer Sentiment Index,high,97.8,97.8,1
+4/1/2019,7:30,USD,Retail Sales (m/m),high,0.30%,0.7%*,1
+4/1/2019,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.40%,1.4%*,1
+4/1/2019,9:00,USD,ISM Manufacturing,high,54.3,54.2,1
+4/3/2019,7:15,USD,ADP National Employment Report,high,180.0k,197.0k*,1
+4/3/2019,9:00,USD,ISM Non-Manufacturing,high,58,59.7,1
+4/5/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.40%,1
+4/5/2019,7:30,USD,Private Payrolls,high,183.0k,28.0k*,1
+4/5/2019,7:30,USD,Unemployment Rate,high,3.80%,3.80%,-1
+4/5/2019,7:30,USD,Nonfarm Payrolls,high,175.0k,33.0k*,1
+4/10/2019,All Day,EUR,Emergency EU Brexit Summit,high,0,0,0
+4/10/2019,3:30,GBP,GDP (m/m),high,0.20%,0.50%,1
+4/10/2019,3:30,GBP,Manufacturing Production (m/m),high,0.20%,0.80%,1
+4/10/2019,3:30,GBP,Manufacturing Production (y/y),high,-0.60%,-1.10%,1
+4/10/2019,6:45,EUR,ECB Deposit Rate,high,-0.40%,-0.40%,-1
+4/10/2019,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+4/10/2019,7:30,USD,CPI (m/m),high,0.30%,0.20%,1
+4/10/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+4/11/2019,7:30,USD,PPI (m/m),high,0.20%,0.10%,1
+4/12/2019,9:00,USD,UoM Consumer Sentiment Index,high,98.2,98.4,1
+4/16/2019,4:00,EUR,ZEW (Economic Sentiment),high,0,-2.5,0
+4/17/2019,3:30,GBP,CPI (m/m),high,0.20%,0.50%,1
+4/17/2019,3:30,GBP,CPI (y/y),high,2.00%,1.90%,1
+4/18/2019,3:30,GBP,Core Retail Sales (m/m),high,-0.30%,0.4%*,1
+4/18/2019,3:30,GBP,Core Retail Sales (y/y),high,3.90%,3.80%,1
+4/18/2019,3:30,GBP,Retail Sales (m/m),high,-0.20%,0.6%*,1
+4/18/2019,3:30,GBP,Retail Sales (y/y),high,4.60%,4.00%,1
+4/18/2019,7:30,USD,Retail Sales (m/m),high,1.00%,-0.20%,1
+4/18/2019,7:30,USD,Retail Sales Ex Auto (m/m),high,0.70%,-0.2%*,1
+4/18/2019,18:30,JPY,Natl CPI (y/y),high,0.50%,0.20%,1
+4/24/2019,3:00,EUR,German IFO Business Climate,high,99.9,99.7*,1
+4/24/2019,3:00,EUR,German IFO Current Conditions,high,103.5,103.9*,1
+4/24/2019,3:00,EUR,German IFO Expectations,high,96.1,95.6,1
+4/24/2019,8:15,GBP,Finance Minister Hammond speaks in London,high,0,0,0
+4/25/2019,All Day,JPY,BoJ MPC - Overnight Rate,high,-0.10%,-0.10%,-1
+4/26/2019,7:30,USD,GDP (q/q ann),high,2.20%,2.2%*,1
+4/26/2019,9:00,USD,UoM Consumer Sentiment Index,high,97,96.9,1
+4/30/2019,9:00,USD,Consumer Confidence,high,126.8,124.2*,1
+5/1/2019,7:15,USD,ADP National Employment Report,high,180.0k,151.0k*,1
+5/1/2019,9:00,USD,ISM Manufacturing,high,55,55.3,1
+5/1/2019,13:00,USD,Federal Funds Rate,high,2.50%,2.50%,-1
+5/2/2019,6:00,GBP,Official Bank Rate,high,0.75%,0.75%,-1
+5/2/2019,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+5/3/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.2%*,1
+5/3/2019,7:30,USD,Private Payrolls,high,185.0k,179.0k*,1
+5/3/2019,7:30,USD,Unemployment Rate,high,3.80%,3.80%,-1
+5/3/2019,7:30,USD,Nonfarm Payrolls,high,190.0k,189.0k*,1
+5/3/2019,9:00,USD,ISM Non-Manufacturing,high,57,56.1,1
+5/9/2019,7:30,USD,PPI (m/m),high,0.30%,0.60%,1
+5/10/2019,3:30,GBP,GDP (m/m),high,0.00%,0.20%,1
+5/10/2019,3:30,GBP,GDP (q/q),high,0.50%,0.20%,1
+5/10/2019,3:30,GBP,Manufacturing Production (m/m),high,0.00%,0.90%,1
+5/10/2019,3:30,GBP,Manufacturing Production (y/y),high,1.10%,0.60%,1
+5/10/2019,7:30,USD,CPI (m/m),high,0.40%,0.40%,1
+5/10/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+5/14/2019,4:00,EUR,ZEW (Economic Sentiment),high,0,4.5,0
+5/15/2019,7:30,USD,Retail Sales (m/m),high,0.70%,1.7%*,1
+5/15/2019,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.70%,1.3%*,1
+5/17/2019,9:00,USD,UoM Consumer Sentiment Index,high,97.2,97.2,1
+5/19/2019,18:50,JPY,Q1 GDP (P) (q/q ann),high,-0.20%,1.90%,1
+5/21/2019,18:50,JPY,Core Machine orders (y/y),high,-3.40%,-5.50%,1
+5/22/2019,3:30,GBP,CPI (m/m),high,0.70%,0.20%,1
+5/22/2019,3:30,GBP,CPI (y/y),high,2.20%,1.90%,1
+5/23/2019,3:00,EUR,German IFO Business Climate,high,99.1,99.2,1
+5/23/2019,3:00,EUR,German IFO Current Conditions,high,103.6,103.3,1
+5/23/2019,3:00,EUR,German IFO Expectations,high,95,95.3*,1
+5/23/2019,18:30,JPY,Natl CPI (y/y),high,0.90%,0.50%,1
+5/24/2019,3:30,GBP,Core Retail Sales (m/m),high,-0.50%,1.20%,1
+5/24/2019,3:30,GBP,Core Retail Sales (y/y),high,4.20%,6.20%,1
+5/24/2019,3:30,GBP,Retail Sales (m/m),high,-0.30%,1.10%,1
+5/24/2019,3:30,GBP,Retail Sales (y/y),high,4.50%,6.70%,1
+5/28/2019,9:00,USD,Consumer Confidence,high,130,129.2,1
+5/31/2019,9:00,USD,UoM Consumer Sentiment Index,high,101.2,102.4,1
+6/3/2019,9:00,USD,ISM Manufacturing,high,53.2,52.8,1
+6/5/2019,7:15,USD,ADP National Employment Report,high,185.0k,271.0k*,1
+6/5/2019,9:00,USD,ISM Non-Manufacturing,high,55.4,55.5,1
+6/6/2019,6:45,EUR,ECB Deposit Rate,high,-0.40%,-0.40%,-1
+6/6/2019,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+6/7/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.20%,1
+6/7/2019,7:30,USD,Nonfarm Payrolls,high,195.0k,224.0k*,1
+6/7/2019,7:30,USD,Private Payrolls,high,178.0k,205.0k*,1
+6/7/2019,7:30,USD,Unemployment Rate,high,3.60%,3.60%,-1
+6/10/2019,3:30,GBP,GDP (m/m),high,0,-0.10%,0
+6/10/2019,3:30,GBP,Manufacturing Production (m/m),high,0,0.90%,0
+6/10/2019,3:30,GBP,Manufacturing Production (y/y),high,0,2.60%,0
+6/11/2019,7:30,USD,PPI (m/m),high,0.10%,0.20%,1
+6/11/2019,18:50,JPY,Core Machine orders (y/y),high,-5.30%,-0.70%,1
+6/12/2019,7:30,USD,CPI (m/m),high,0.10%,0.30%,1
+6/12/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+6/14/2019,7:30,USD,Retail Sales (m/m),high,0.60%,0.3%*,1
+6/14/2019,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.40%,0.5%*,1
+6/14/2019,9:00,USD,UoM Consumer Sentiment Index,high,98,100,1
+6/18/2019,4:00,EUR,ZEW (Economic Sentiment),high,0,-1.6,0
+6/19/2019,3:30,GBP,CPI (m/m),high,0.30%,0.60%,1
+6/19/2019,3:30,GBP,CPI (y/y),high,2.00%,2.10%,1
+6/19/2019,12:00,USD,Federal Funds Rate,high,2.50%,2.50%,-1
+6/20/2019,All Day,GBP,Official Bank Rate,high,0.75%,0.75%,-1
+6/20/2019,All Day,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+6/20/2019,3:30,GBP,Core Retail Sales (m/m),high,-0.40%,-0.3%*,1
+6/20/2019,3:30,GBP,Core Retail Sales (y/y),high,2.50%,4.7%*,1
+6/20/2019,3:30,GBP,Retail Sales (m/m),high,-0.50%,-0.1%*,1
+6/20/2019,3:30,GBP,Retail Sales (y/y),high,2.70%,5.1%*,1
+6/20/2019,18:30,JPY,Natl CPI (y/y),high,0.80%,0.90%,1
+6/24/2019,3:00,EUR,German IFO Current Conditions,high,100.3,100.7*,1
+6/24/2019,3:00,EUR,German IFO Expectations,high,94.6,95.2*,1
+6/24/2019,3:00,EUR,German IFO Business Climate,high,97.4,97.9,1
+6/25/2019,9:00,USD,Consumer Confidence,high,131,131.3*,1
+6/28/2019,3:30,GBP,GDP (q/q),high,0.50%,0.50%,1
+6/28/2019,9:00,USD,UoM Consumer Sentiment Index,high,97.9,97.9,1
+7/1/2019,9:00,USD,ISM Manufacturing,high,51,52.1,1
+7/3/2019,7:15,USD,ADP National Employment Report,high,140.0k,41.0k*,1
+7/3/2019,9:00,USD,ISM Non-Manufacturing,high,56,56.9,1
+7/4/2019,All Day,USD,Independence Day,high,0,0,0
+7/5/2019,7:30,USD,Nonfarm Payrolls,high,160.0k,72.0k*,1
+7/5/2019,7:30,USD,Private Payrolls,high,150.0k,83.0k*,1
+7/5/2019,7:30,USD,Unemployment Rate,high,3.60%,3.60%,-1
+7/5/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.3%*,1
+7/7/2019,18:50,JPY,Core Machine orders (y/y),high,-3.60%,2.50%,1
+7/10/2019,3:30,GBP,GDP (m/m),high,0.30%,-0.40%,1
+7/10/2019,3:30,GBP,Manufacturing Production (m/m),high,2.20%,-4.2%*,1
+7/10/2019,3:30,GBP,Manufacturing Production (y/y),high,1.10%,-1.0%*,1
+7/10/2019,9:00,USD,Fed's Powell Testifies to House Financial Services Panel,high,0,0,0
+7/11/2019,7:30,USD,CPI (m/m),high,0.00%,0.10%,1
+7/11/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+7/12/2019,7:30,USD,PPI (m/m),high,0.00%,0.10%,1
+7/16/2019,7:30,USD,Retail Sales (m/m),high,0.20%,0.4%*,1
+7/16/2019,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.30%,0.4%*,1
+7/17/2019,3:30,GBP,CPI (m/m),high,0.00%,0.30%,1
+7/17/2019,3:30,GBP,CPI (y/y),high,2.00%,2.00%,1
+7/18/2019,3:30,GBP,Core Retail Sales (m/m),high,-0.20%,-0.30%,1
+7/18/2019,3:30,GBP,Core Retail Sales (y/y),high,2.60%,2.20%,1
+7/18/2019,3:30,GBP,Retail Sales (m/m),high,-0.30%,-0.50%,1
+7/18/2019,3:30,GBP,Retail Sales (y/y),high,2.60%,2.30%,1
+7/18/2019,18:30,JPY,Natl CPI (y/y),high,0.70%,0.80%,1
+7/19/2019,9:00,USD,UoM Consumer Sentiment Index,high,98.8,98.2,1
+7/25/2019,3:00,EUR,German IFO Business Climate,high,97.2,97.5*,1
+7/25/2019,3:00,EUR,German IFO Current Conditions,high,100.4,101.1*,1
+7/25/2019,3:00,EUR,German IFO Expectations,high,94,94.0*,1
+7/25/2019,6:45,EUR,ECB Deposit Rate,high,-0.40%,-0.40%,-1
+7/25/2019,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+7/26/2019,7:30,USD,Core Personal Consumption Expenditure (q/q ann),high,2.00%,1.1%*,1
+7/26/2019,7:30,USD,GDP (q/q ann),high,1.80%,3.10%,1
+7/30/2019,9:00,USD,Consumer Confidence,high,125,124.3*,1
+7/31/2019,7:15,USD,ADP National Employment Report,high,150.0k,112.0k*,1
+7/31/2019,13:00,USD,Federal Funds Rate,high,2.25%,2.50%,-1
+7/31/2019,13:00,USD,FOMC announces interest rate decision,high,0,0,0
+7/31/2019,13:30,USD,Fed's Powell gives press conference,high,0,0,0
+8/1/2019,5:00,GBP,Official Bank Rate,high,0.75%,0.75%,-1
+8/1/2019,5:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+8/1/2019,9:00,USD,ISM Manufacturing,high,52,51.7,1
+8/2/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.3%*,1
+8/2/2019,7:30,USD,Nonfarm Payrolls,high,165.0k,193.0k*,1
+8/2/2019,7:30,USD,Private Payrolls,high,165.0k,179.0k*,1
+8/2/2019,7:30,USD,Unemployment Rate,high,3.60%,3.70%,-1
+8/2/2019,9:00,USD,UoM Consumer Sentiment Index,high,98.5,98.4,1
+8/5/2019,9:00,USD,ISM Non-Manufacturing,high,55.5,55.1,1
+8/9/2019,3:30,GBP,GDP (m/m),high,0.10%,0.2%*,1
+8/9/2019,3:30,GBP,GDP (q/q),high,0.00%,0.50%,1
+8/9/2019,3:30,GBP,Manufacturing Production (m/m),high,-0.30%,1.40%,1
+8/9/2019,3:30,GBP,Manufacturing Production (y/y),high,-1.10%,0.00%,1
+8/9/2019,7:30,USD,PPI (m/m),high,0.20%,0.10%,1
+8/13/2019,7:30,USD,CPI (m/m),high,0.30%,0.10%,1
+8/13/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.30%,1
+8/13/2019,18:50,JPY,Core Machine orders (y/y),high,-1.10%,-3.70%,1
+8/14/2019,3:30,GBP,CPI (m/m),high,-0.10%,0.00%,1
+8/14/2019,3:30,GBP,CPI (y/y),high,1.90%,2.00%,1
+8/15/2019,3:30,GBP,Core Retail Sales (m/m),high,-0.20%,0.8%*,1
+8/15/2019,3:30,GBP,Core Retail Sales (y/y),high,2.30%,3.60%,1
+8/15/2019,3:30,GBP,Retail Sales (m/m),high,-0.20%,0.9%*,1
+8/15/2019,3:30,GBP,Retail Sales (y/y),high,2.50%,3.80%,1
+8/15/2019,7:30,USD,Retail Sales (m/m),high,0.20%,0.0%*,1
+8/15/2019,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.40%,0.3%*,1
+8/16/2019,9:00,USD,UoM Consumer Sentiment Index,high,97,98.4,1
+8/22/2019,18:30,JPY,Natl CPI (y/y),high,0.60%,0.70%,1
+8/26/2019,3:00,EUR,German IFO Business Climate,high,95.1,95.8*,1
+8/26/2019,3:00,EUR,German IFO Current Conditions,high,98.8,99.6*,1
+8/26/2019,3:00,EUR,German IFO Expectations,high,91.8,92.1*,1
+8/27/2019,9:00,USD,Consumer Confidence,high,130,135.8*,1
+8/30/2019,9:00,USD,UoM Consumer Sentiment Index,high,92.3,92.1,1
+9/3/2019,All Day,USD,Labor Day,high,0,0,0
+9/3/2019,9:00,USD,ISM Manufacturing,high,51.2,51.2,1
+9/5/2019,7:15,USD,ADP National Employment Report,high,146.0k,142.0k*,1
+9/5/2019,9:00,USD,ISM Non-Manufacturing,high,54,53.7,1
+9/6/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.30%,1
+9/6/2019,7:30,USD,Nonfarm Payrolls,high,160.0k,159.0k*,1
+9/6/2019,7:30,USD,Private Payrolls,high,150.0k,131.0k*,1
+9/6/2019,7:30,USD,Unemployment Rate,high,3.70%,3.70%,-1
+9/6/2019,11:30,USD,Fed's Powell participates in Zurich Economic Outlook and Monetary Policy Panel,high,0,0,0
+9/9/2019,3:30,GBP,GDP (m/m),high,0.10%,0.00%,1
+9/9/2019,3:30,GBP,Manufacturing Production (m/m),high,-0.20%,-0.20%,1
+9/9/2019,3:30,GBP,Manufacturing Production (y/y),high,-1.10%,-1.40%,1
+9/11/2019,7:30,USD,PPI (m/m),high,0.00%,0.20%,1
+9/11/2019,18:50,JPY,Core Machine orders (y/y),high,-9.00%,12.50%,1
+9/12/2019,6:45,EUR,ECB Deposit Rate,high,-0.50%,-0.40%,-1
+9/12/2019,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+9/12/2019,7:30,USD,CPI (m/m),high,0.10%,0.30%,1
+9/12/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.30%,1
+9/13/2019,7:30,USD,Retail Sales (m/m),high,0.20%,0.8%*,1
+9/13/2019,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.10%,1.00%,1
+9/13/2019,9:00,USD,UoM Consumer Sentiment Index,high,90.4,89.8,1
+9/17/2019,4:00,EUR,ZEW (Economic Sentiment),high,0,-43.6,0
+9/18/2019,3:30,GBP,CPI (m/m),high,0.50%,0.00%,1
+9/18/2019,3:30,GBP,CPI (y/y),high,1.90%,2.10%,1
+9/18/2019,13:00,USD,Federal Funds Rate,high,2.00%,2.25%,-1
+9/18/2019,13:00,USD,FOMC monetary policy statement,high,0,0,0
+9/18/2019,13:30,USD,Press conference from Fed's Powell,high,0,0,0
+9/19/2019,All Day,JPY,BoJ 10y Yield Target,high,0.00%,0.00%,1
+9/19/2019,All Day,JPY,BoJ Policy Balance Rate,high,-0.10%,-0.10%,1
+9/19/2019,3:30,GBP,Core Retail Sales (m/m),high,-0.30%,0.4%*,1
+9/19/2019,3:30,GBP,Core Retail Sales (y/y),high,2.30%,3.1%*,1
+9/19/2019,3:30,GBP,Retail Sales (m/m),high,0.00%,0.4%*,1
+9/19/2019,3:30,GBP,Retail Sales (y/y),high,2.80%,3.4%*,1
+9/19/2019,6:00,GBP,Official Bank Rate,high,0.75%,0.75%,-1
+9/19/2019,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+9/19/2019,18:30,JPY,Natl CPI (y/y),high,0.30%,0.50%,1
+9/24/2019,3:00,EUR,German IFO Business Climate,high,94.5,94.3,1
+9/24/2019,3:00,EUR,German IFO Expectations,high,92,91.3,1
+9/24/2019,3:00,EUR,German IFO Current Conditions,high,96.9,97.3,1
+9/24/2019,9:00,USD,Consumer Confidence,high,134,134.2*,1
+9/27/2019,9:00,USD,UoM Consumer Sentiment Index,high,92.1,92,1
+9/30/2019,3:30,GBP,GDP (q/q),high,-0.20%,-0.20%,1
+10/1/2019,9:00,USD,ISM Manufacturing,high,50.5,49.1,1
+10/2/2019,7:15,USD,ADP National Employment Report,high,138.0k,157.0k*,1
+10/3/2019,9:00,USD,ISM Non-Manufacturing,high,55,56.4,1
+10/4/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.40%,1
+10/4/2019,7:30,USD,Nonfarm Payrolls,high,147.0k,168.0k*,1
+10/4/2019,7:30,USD,Private Payrolls,high,130.0k,122.0k*,1
+10/4/2019,7:30,USD,Unemployment Rate,high,3.70%,3.70%,-1
+10/8/2019,7:30,USD,PPI (m/m),high,0.10%,0.10%,1
+10/8/2019,12:50,USD,Fed's Powell speaks at NABE conference,high,0,0,0
+10/9/2019,13:00,USD,FOMC minutes from September 18,high,0,0,0
+10/9/2019,18:50,JPY,Core Machine orders (y/y),high,0,0.30%,0
+10/10/2019,3:30,GBP,GDP (m/m),high,0,0.30%,0
+10/10/2019,3:30,GBP,Manufacturing Production (m/m),high,0,0.30%,0
+10/10/2019,3:30,GBP,Manufacturing Production (y/y),high,0,-0.60%,0
+10/10/2019,7:30,USD,CPI (m/m),high,0.10%,0.10%,1
+10/10/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.30%,1
+10/11/2019,9:00,USD,UoM Consumer Sentiment Index,high,92,93.2,1
+10/15/2019,4:00,EUR,ZEW (Economic Sentiment),high,0,-22.4,0
+10/16/2019,3:30,GBP,CPI (m/m),high,0.20%,0.40%,1
+10/16/2019,3:30,GBP,CPI (y/y),high,1.80%,1.70%,1
+10/16/2019,7:30,USD,Retail Sales (m/m),high,0.30%,0.6%*,1
+10/16/2019,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.20%,0.2%*,1
+10/16/2019,19:00,EUR,EU Council Meeting,high,0,0,0
+10/17/2019,3:30,GBP,Core Retail Sales (m/m),high,-0.10%,-0.30%,1
+10/17/2019,3:30,GBP,Core Retail Sales (y/y),high,2.90%,2.2%*,1
+10/17/2019,3:30,GBP,Retail Sales (m/m),high,-0.20%,-0.3%*,1
+10/17/2019,3:30,GBP,Retail Sales (y/y),high,3.10%,2.6%*,1
+10/17/2019,18:30,JPY,Natl CPI (y/y),high,0.20%,0.30%,1
+10/18/2019,10:30,USD,Fed's Clarida speaks on economy and policy,high,0,0,0
+10/24/2019,6:45,EUR,ECB Deposit Rate,high,-0.50%,-0.50%,-1
+10/24/2019,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+10/24/2019,8:30,EUR,ECB's Draghi speaks in Frankfurt,high,0,0,0
+10/25/2019,All Day,EUR,French France sovereign debt to be rated by DBRS,high,0,0,0
+10/25/2019,All Day,EUR,French France sovereign debt to be rated by Moody's,high,0,0,0
+10/25/2019,All Day,GBP,UK sovereign debt rated by S&P,high,0,0,0
+10/25/2019,3:00,EUR,German IFO Business Climate,high,94.5,94.6,1
+10/25/2019,3:00,EUR,German IFO Current Conditions,high,98,98.6*,1
+10/25/2019,3:00,EUR,German IFO Expectations,high,91,90.9*,1
+10/25/2019,9:00,USD,UoM Consumer Sentiment Index,high,96,96,1
+10/29/2019,9:00,USD,Consumer Confidence,high,128,125.1,1
+10/30/2019,7:15,USD,ADP National Employment Report,high,110.0k,93.0k*,1
+10/30/2019,13:00,USD,Federal Funds Rate,high,1.75%,2.00%,-1
+10/31/2019,All Day,JPY,BoJ 10y Yield Target,high,0.00%,0.00%,-1
+10/31/2019,All Day,JPY,BoJ Policy Balance Rate,high,-0.10%,-0.10%,-1
+11/1/2019,7:30,USD,Nonfarm Payrolls,high,85.0k,180.0k*,1
+11/1/2019,7:30,USD,Private Payrolls,high,80.0k,167.0k*,1
+11/1/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.00%,1
+11/1/2019,7:30,USD,Unemployment Rate,high,3.60%,3.50%,-1
+11/1/2019,9:00,USD,ISM Manufacturing,high,49,47.8,1
+11/4/2019,12:30,EUR,ECB's Lagarde speaks in Berlin,high,0,0,0
+11/5/2019,9:00,USD,ISM Non-Manufacturing,high,53.4,52.6,1
+11/7/2019,6:00,GBP,Official Bank Rate,high,0.75%,0.75%,-1
+11/7/2019,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+11/7/2019,6:30,GBP,BoE's Carney speaks in London,high,0,0,0
+11/8/2019,9:00,USD,UoM Consumer Sentiment Index,high,95,95.5,1
+11/10/2019,17:50,JPY,Core Machine orders (y/y),high,1.60%,-14.50%,1
+11/11/2019,3:30,GBP,GDP (m/m),high,-0.10%,-0.10%,1
+11/11/2019,3:30,GBP,Manufacturing Production (m/m),high,-0.20%,-0.70%,1
+11/11/2019,3:30,GBP,Manufacturing Production (y/y),high,-1.30%,-1.70%,1
+11/11/2019,3:30,GBP,GDP (q/q),high,0.40%,-0.20%,1
+11/12/2019,4:00,EUR,ZEW (Economic Sentiment),high,0,-23.5,0
+11/13/2019,3:30,GBP,CPI (m/m),high,-0.10%,0.10%,1
+11/13/2019,3:30,GBP,CPI (y/y),high,1.60%,1.70%,1
+11/13/2019,7:30,USD,CPI (m/m),high,0.30%,0.00%,1
+11/13/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+11/13/2019,10:00,USD,Fed's Powell addresses Joint Economic Committee of Congress,high,0,0,0
+11/14/2019,3:30,GBP,Core Retail Sales (m/m),high,0.20%,0.20%,1
+11/14/2019,3:30,GBP,Core Retail Sales (y/y),high,3.40%,3.00%,1
+11/14/2019,3:30,GBP,Retail Sales (m/m),high,0.20%,0.00%,1
+11/14/2019,3:30,GBP,Retail Sales (y/y),high,3.70%,3.10%,1
+11/14/2019,7:30,USD,PPI (m/m),high,0.30%,-0.30%,1
+11/14/2019,9:00,USD,Fed's Powell to testify to House Budget Committee,high,0,0,0
+11/15/2019,7:30,USD,Retail Sales (m/m),high,0.20%,-0.30%,1
+11/15/2019,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.30%,-0.10%,1
+11/20/2019,13:00,USD,FOMC minutes from October 30,high,0,0,0
+11/21/2019,17:30,JPY,Natl CPI (y/y),high,0.30%,0.20%,1
+11/22/2019,2:00,EUR,ECB President Lagarde speaks in Frankfurt,high,0,0,0
+11/22/2019,9:00,USD,UoM Consumer Sentiment Index,high,95.7,95.7,1
+11/25/2019,3:00,EUR,German IFO Business Climate,high,95,94.6,1
+11/25/2019,3:00,EUR,German IFO Current Conditions,high,98,97.8,1
+11/25/2019,3:00,EUR,German IFO Expectations,high,93,91.5,1
+11/26/2019,9:00,USD,Consumer Confidence,high,126.1,126.1*,1
+11/28/2019,All Day,USD,Thanksgiving,high,0,0,0
+12/2/2019,8:00,EUR,ECB's Lagarde speaks in the European Parliament,high,0,0,0
+12/2/2019,9:00,USD,ISM Manufacturing,high,49.5,48.3,1
+12/4/2019,7:15,USD,ADP National Employment Report,high,140.0k,121.0k*,1
+12/4/2019,9:00,USD,ISM Non-Manufacturing,high,54.5,54.7,1
+12/6/2019,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.4%*,1
+12/6/2019,7:30,USD,Nonfarm Payrolls,high,190.0k,156.0k*,1
+12/6/2019,7:30,USD,Private Payrolls,high,180.0k,163.0k*,1
+12/6/2019,7:30,USD,Unemployment Rate,high,3.60%,3.60%,-1
+12/6/2019,9:00,USD,UoM Consumer Sentiment Index,high,97,96.8,1
+12/10/2019,3:30,GBP,GDP (m/m),high,0.00%,-0.10%,1
+12/10/2019,3:30,GBP,Manufacturing Production (m/m),high,0.20%,-0.40%,1
+12/10/2019,3:30,GBP,Manufacturing Production (y/y),high,-1.20%,-1.80%,1
+12/10/2019,4:00,EUR,ZEW (Economic Sentiment),high,0,-1,0
+12/11/2019,7:30,USD,CPI (m/m),high,0.20%,0.40%,1
+12/11/2019,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+12/11/2019,13:00,USD,Federal Funds Rate,high,1.75%,1.75%,-1
+12/11/2019,17:50,JPY,Core Machine orders (y/y),high,-1.90%,5.10%,1
+12/12/2019,All Day,GBP,UK General Election,high,0,0,0
+12/12/2019,5:45,EUR,ECB Deposit Rate,high,-0.50%,-0.50%,-1
+12/12/2019,5:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+12/12/2019,7:30,USD,PPI (m/m),high,0.20%,0.40%,1
+12/12/2019,7:30,EUR,ECB's Lagarde speaks in Frankfurt,high,0,0,0
+12/13/2019,7:30,USD,Retail Sales (m/m),high,0.50%,0.4%*,1
+12/13/2019,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.40%,0.3%*,1
+12/16/2019,10:00,GBP,"BoE publishes Financial Stability Report, Stress Tests",high,0,0,0
+12/18/2019,2:30,EUR,ECB's Lagarde Speaks in Frankfurt,high,0,0,0
+12/18/2019,3:00,EUR,German IFO Business Climate,high,95.5,95,1
+12/18/2019,3:00,EUR,German IFO Current Conditions,high,98.1,97.9,1
+12/18/2019,3:00,EUR,German IFO Expectations,high,93,92.1,1
+12/18/2019,3:30,GBP,CPI (m/m),high,1.50%,-0.20%,1
+12/18/2019,3:30,GBP,CPI (y/y),high,1.50%,1.50%,1
+12/19/2019,All Day,GBP,Official Bank Rate,high,0.75%,0.75%,-1
+12/19/2019,All Day,GBP,Asset Purchase Facility,high,4.5B,435.0B,-1
+12/19/2019,All Day,JPY,BoJ 10y Yield Target,high,0.00%,0.00%,-1
+12/19/2019,All Day,JPY,BoJ Policy Balance Rate,high,-0.10%,-0.10%,-1
+12/19/2019,3:30,GBP,Core Retail Sales (m/m),high,0.40%,-0.30%,1
+12/19/2019,3:30,GBP,Core Retail Sales (y/y),high,2.10%,2.70%,1
+12/19/2019,3:30,GBP,Retail Sales (m/m),high,0.50%,-0.10%,1
+12/19/2019,3:30,GBP,Retail Sales (y/y),high,2.60%,3.10%,1
+12/19/2019,17:30,JPY,Natl CPI (y/y),high,0.50%,0.20%,1
+12/20/2019,3:30,GBP,GDP (q/q),high,0.30%,0.30%,1
+12/20/2019,9:00,USD,UoM Consumer Sentiment Index,high,99.2,99.2,1
+12/31/2020,9:00,USD,Consumer Confidence,high,128,126.8*,1
+1/3/2020,9:00,USD,ISM Manufacturing,high,49,48.1,1
+1/3/2020,13:00,USD,FOMC minutes from December 11,high,0,0,0
+1/7/2020,9:00,USD,ISM Non-Manufacturing,high,54.5,53.9,1
+1/8/2020,7:15,USD,ADP National Employment Report,high,160.0k,124.0k*,1
+1/9/2020,3:30,GBP,BoE's Carney Speaks in London,high,0,0,0
+1/10/2020,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.3%*,1
+1/10/2020,7:30,USD,Nonfarm Payrolls,high,160.0k,256.0k*,1
+1/10/2020,7:30,USD,Private Payrolls,high,153.0k,243.0k*,1
+1/10/2020,7:30,USD,Unemployment Rate,high,3.50%,3.50%,-1
+1/13/2020,3:30,GBP,GDP (m/m),high,0.00%,0.00%,1
+1/13/2020,3:30,GBP,Manufacturing Production (m/m),high,-0.10%,0.20%,1
+1/13/2020,3:30,GBP,Manufacturing Production (y/y),high,-1.60%,-1.20%,1
+1/14/2020,7:30,USD,CPI (m/m),high,0.30%,0.30%,1
+1/14/2020,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+1/15/2020,3:30,GBP,CPI (m/m),high,0.20%,0.20%,1
+1/15/2020,3:30,GBP,CPI (y/y),high,1.50%,1.50%,1
+1/15/2020,7:30,USD,PPI (m/m),high,0.20%,0.00%,1
+1/15/2020,17:50,JPY,Core Machine orders (y/y),high,-5.30%,-6.10%,1
+1/16/2020,7:30,USD,Retail Sales (m/m),high,0.30%,0.3%*,1
+1/16/2020,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.50%,0.10%,1
+1/16/2020,12:00,EUR,ECB's Lagarde Speaks in Frankfurt,high,0,0,0
+1/17/2020,3:30,GBP,Core Retail Sales (m/m),high,0.80%,-0.8%*,1
+1/17/2020,3:30,GBP,Core Retail Sales (y/y),high,3.00%,0.6%*,1
+1/17/2020,3:30,GBP,Retail Sales (m/m),high,0.60%,-0.8%*,1
+1/17/2020,3:30,GBP,Retail Sales (y/y),high,2.70%,0.8%*,1
+1/17/2020,9:00,USD,UoM Consumer Sentiment Index,high,99.3,99.3,1
+1/20/2020,21:01,JPY,BoJ 10y Yield Target,high,0.00%,0.00%,-1
+1/20/2020,21:01,JPY,BoJ Policy Rate Balance,high,-0.10%,-0.10%,-1
+1/21/2020,4:00,EUR,ZEW (Economic Sentiment),high,0,11.2,0
+1/23/2020,6:45,EUR,ECB Deposit Rate,high,-0.50%,-0.50%,-1
+1/23/2020,6:45,EUR,ECB Interest Rate Decision,high,0.00%,0.00%,-1
+1/23/2020,7:30,EUR,ECB's Lagarde Speaks in Frankfurt,high,0,0,0
+1/23/2020,17:30,JPY,Natl CPI (y/y),high,0.70%,0.50%,1
+1/23/2020,17:50,JPY,BoJ Minutes from December,high,0,0,0
+1/27/2020,3:00,EUR,German IFO Business Climate,high,97,96.3,1
+1/27/2020,3:00,EUR,German IFO Current Conditions,high,99,98.8,1
+1/27/2020,3:00,EUR,German IFO Expectations,high,94.5,93.8,1
+1/28/2020,9:00,USD,Consumer Confidence,high,128,128.2*,1
+1/29/2020,13:00,USD,Federal Funds Rate,high,1.75%,1.75%,-1
+1/30/2020,6:00,GBP,Official Bank Rate,high,0.75%,0.75%,-1
+1/30/2020,6:00,GBP,Asset Purchase Facility,high,435.0B,435.0B,-1
+1/30/2020,6:30,GBP,BoE's Carney Speaks in London,high,0,0,0
+1/31/2020,9:00,USD,UoM Consumer Sentiment Index,high,99,99.1,1
+2/3/2020,9:00,USD,ISM Manufacturing,high,48.5,47.8*,1
+2/5/2020,7:15,USD,ADP National Employment Report,high,158.0k,199.0k*,1
+2/5/2020,9:00,USD,ISM Non-Manufacturing,high,55.1,55,1
+2/7/2020,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.10%,1
+2/7/2020,7:30,USD,Nonfarm Payrolls,high,165.0k,147.0k*,1
+2/7/2020,7:30,USD,Private Payrolls,high,155.0k,142.0k*,1
+2/7/2020,7:30,USD,Unemployment Rate,high,3.50%,3.50%,-1
+2/11/2020,3:30,GBP,GDP (q/q),high,0.00%,0.40%,1
+2/11/2020,3:30,GBP,GDP (m/m),high,0.20%,-0.30%,1
+2/11/2020,3:30,GBP,Manufacturing Production (m/m),high,0.50%,-1.70%,1
+2/11/2020,3:30,GBP,Manufacturing Production (y/y),high,-1.00%,-2.00%,1
+2/11/2020,9:00,USD,Fed's Powell testifies to House on monetary policy,high,0,0,0
+2/13/2020,7:30,USD,CPI (m/m),high,0.20%,0.20%,1
+2/13/2020,7:30,USD,Core CPI (m/m),high,0.20%,0.10%,1
+2/14/2020,1:00,EUR,German GDP (wda) (y/y),high,0.30%,0.6%*,1
+2/14/2020,7:30,USD,Retail Sales (m/m),high,0.30%,0.2%*,1
+2/14/2020,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.40%,0.6%*,1
+2/14/2020,9:00,USD,UoM Consumer Sentiment Index,high,99.4,99.8*,1
+2/18/2020,4:00,EUR,ZEW (Economic Sentiment),high,0,25.6,0
+2/18/2020,17:50,JPY,Core Machine orders (y/y),high,-2.00%,5.30%,1
+2/19/2020,3:30,GBP,CPI (m/m),high,-0.40%,0.00%,1
+2/19/2020,3:30,GBP,CPI (y/y),high,1.60%,1.30%,1
+2/19/2020,7:30,USD,PPI (m/m),high,0.10%,0.2%*,1
+2/19/2020,13:00,USD,FOMC minutes from January 29,high,0,0,0
+2/20/2020,3:30,GBP,Core Retail Sales (m/m),high,0.80%,-0.80%,1
+2/20/2020,3:30,GBP,Core Retail Sales (y/y),high,0.40%,0.70%,1
+2/20/2020,3:30,GBP,Retail Sales (m/m),high,0.60%,-0.60%,1
+2/20/2020,3:30,GBP,Retail Sales (y/y),high,0.60%,0.90%,1
+2/20/2020,17:30,JPY,Natl CPI (y/y),high,0.60%,0.80%,1
+2/21/2020,3:30,GBP,CIPS / Markit Manufacturing PMI,high,49.7,50,1
+2/21/2020,3:30,GBP,CIPS/Markit Composite PMI,high,52.8,53.3,1
+2/24/2020,3:00,EUR,German IFO Business Climate,high,95.1,95.9,1
+2/24/2020,3:00,EUR,German IFO Current Conditions,high,95.5,99.1,1
+2/24/2020,3:00,EUR,German IFO Expectations,high,91.6,92.9,1
+2/25/2020,9:00,USD,Consumer Confidence,high,132,130.4*,1
+2/28/2020,9:00,USD,UoM Consumer Sentiment Index,high,100.7,100.9,1
+3/2/2020,9:00,USD,ISM Manufacturing,high,49.5,50.9,1
+3/3/2020,9:00,USD,Federal Funds Rate,high,0,1.75%,0
+3/4/2020,7:15,USD,ADP National Employment Report,high,170.0k,209.0k*,1
+3/4/2020,9:00,USD,ISM Non-Manufacturing,high,54.9,55.5,1
+3/6/2020,7:30,USD,Average Hourly Earnings (m/m),high,0.30%,0.20%,1
+3/6/2020,7:30,USD,Nonfarm Payrolls,high,175.0k,273.0k*,1
+3/6/2020,7:30,USD,Private Payrolls,high,160.0k,222.0k*,1
+3/6/2020,7:30,USD,Unemployment Rate,high,3.60%,3.60%,-1
+3/11/2020,2:01,GBP,Official Bank Rate,high,0,0.75%,0
+3/11/2020,2:02,GBP,Asset Purchase Facility,high,0,435.0B,0
+3/11/2020,4:30,GBP,GDP (m/m),high,0.20%,0.30%,1
+3/11/2020,4:30,GBP,Manufacturing Production (m/m),high,0.20%,0.30%,1
+3/11/2020,4:30,GBP,Manufacturing Production (y/y),high,-3.50%,-2.50%,1
+3/11/2020,7:30,USD,CPI (m/m),high,0,0.10%,0
+3/11/2020,7:30,USD,Core CPI (m/m),high,0.20%,0.20%,1
+3/12/2020,7:30,USD,PPI (m/m),high,-0.10%,0.50%,1
+3/12/2020,7:45,EUR,ECB Deposit Rate,high,-0.50%,-0.50%,-1
+3/12/2020,7:45,EUR,ECB Interest Rate Decision,high,0,0.00%,0
+3/13/2020,9:00,USD,UoM Consumer Sentiment Index,high,95,101,1
+3/15/2020,18:50,JPY,Core Machine orders (y/y),high,-1.00%,-3.50%,1
+3/16/2020,All Day,JPY,BoJ 10y Yield Target,high,0,0.00%,0
+3/16/2020,All Day,JPY,BoJ Policy Balance Rate,high,-0.10%,-0.10%,-1
+3/16/2020,13:00,USD,Federal Funds Rate,high,0.75%,1.25%,-1
+3/17/2020,5:00,EUR,ZEW (Economic Sentiment),high,0,10.4,0
+3/17/2020,7:30,USD,Retail Sales (m/m),high,0.20%,0.6%*,1
+3/17/2020,7:30,USD,Retail Sales (ex Autos) (m/m),high,0.20%,0.6%*,1
+3/18/2020,18:30,JPY,Natl CPI (y/y),high,0.50%,0.70%,1
+3/19/2020,7:00,GBP,Official Bank Rate,high,0,0.25%,0
+3/25/2020,4:00,EUR,German IFO Business Climate,high,0,96.0*,0
+3/25/2020,4:00,EUR,German IFO Current Conditions,high,0,99.0*,0
+3/25/2020,4:00,EUR,German IFO Expectations,high,0,93.1*,0
+3/25/2020,4:30,GBP,CPI (m/m),high,0.30%,-0.30%,1
+3/25/2020,4:30,GBP,CPI (y/y),high,1.70%,1.80%,1
+3/26/2020,4:30,GBP,Retail Sales (y/y),high,0.70%,0.80%,1
+3/26/2020,4:30,GBP,Core Retail Sales (m/m),high,-0.20%,1.60%,1
+3/26/2020,4:30,GBP,Core Retail Sales (y/y),high,1.10%,1.20%,1
+3/26/2020,4:30,GBP,Retail Sales (m/m),high,0.20%,0.90%,1
+3/26/2020,6:00,GBP,Official Bank Rate,high,0.10%,0.10%,-1
+3/27/2020,9:00,USD,UoM Consumer Sentiment Index,high,90,95.9,1
+3/31/2020,3:30,GBP,GDP (q/q),high,0,0.00%,0
+3/31/2020,9:00,USD,Consumer Confidence,high,115,132.6*,1
+4/1/2020,7:15,USD,ADP National Employment Report,high,0,179.0k*,0
+4/1/2020,9:00,USD,ISM Manufacturing,high,49.3,50.1,1
+4/3/2020,7:30,USD,Average Hourly Earnings (m/m),high,0.20%,0.30%,1
+4/3/2020,7:30,USD,Nonfarm Payrolls,high,-100.0k,275.0k*,1
+4/3/2020,7:30,USD,Private Payrolls,high,-117.0k,242.0k*,1
+4/3/2020,7:30,USD,Unemployment Rate,high,3.80%,3.50%,-1
+4/3/2020,9:00,USD,ISM Non-Manufacturing,high,44,57.3,1
+4/7/2020,18:50,JPY,Core Machine orders (y/y),high,-2.90%,-0.30%,1
+4/9/2020,1:00,GBP,GDP (m/m),high,0.10%,0.00%,1
+4/9/2020,1:00,GBP,Manufacturing Production (m/m),high,0.10%,0.20%,1
+4/9/2020,1:00,GBP,Manufacturing Production (y/y),high,-4.10%,-3.60%,1
+4/9/2020,7:30,USD,PPI (m/m),high,-0.30%,-0.10%,1
+4/9/2020,9:00,USD,UoM Consumer Sentiment Index,high,80,89.1,1
+4/9/2020,9:00,USD,Fed's Powell gives economic update,high,0,0,0
+4/10/2020,7:30,USD,CPI (m/m),high,-0.30%,0.10%,1
+4/10/2020,7:30,USD,Core CPI (m/m),high,0.10%,0.20%,1
+4/15/2020,7:30,USD,Retail Sales (m/m),high,-3.00%,-0.4%*,1
+4/15/2020,7:30,USD,Retail Sales (ex Autos) (m/m),high,-0.80%,-0.40%,1
+4/21/2020,5:00,EUR,ZEW (Economic Sentiment),high,0,-49.5,0
+4/22/2020,1:00,GBP,CPI (y/y),high,1.50%,1.7%*,1
+4/22/2020,1:00,GBP,CPI (m/m),high,0,0.40%,0
+4/23/2020,18:30,JPY,Natl CPI (y/y),high,0.40%,0.40%,1
+4/24/2020,1:00,GBP,Core Retail Sales (m/m),high,-2.00%,-0.30%,1
+4/24/2020,1:00,GBP,Core Retail Sales (y/y),high,-3.10%,-0.50%,1
+4/24/2020,1:00,GBP,Retail Sales (m/m),high,-3.50%,-0.50%,1
+4/24/2020,1:00,GBP,Retail Sales (y/y),high,-4.00%,0,0
+4/24/2020,3:00,EUR,German IFO Business Climate,high,81,85.9*,1
+4/24/2020,3:00,EUR,German IFO Current Conditions,high,84,92.9*,1
+4/24/2020,3:00,EUR,German IFO Expectations,high,75,79.7,1
+4/24/2020,9:00,USD,UoM Consumer Sentiment Index,high,68.1,71,1
+4/27/2020,All Day,JPY,BoJ 10y Yield Target,high,0,0.00%,0
+4/27/2020,All Day,JPY,BoJ Policy Balance Rate,high,0,-0.10%,0
+4/28/2020,9:00,USD,Consumer Confidence,high,90,118.8*,1
+4/29/2020,13:00,USD,Federal Funds Rate,high,0.25%,0.25%,-1
+5/1/2020,9:00,USD,ISM Manufacturing,high,39,49.1,1
+5/5/2020,9:00,USD,ISM Non-Manufacturing,high,37.8,52.5,1
+5/6/2020,7:15,USD,ADP National Employment Report,high,"-20,000.0k",-149.0k*,1
+5/7/2020,6:00,GBP,Asset Purchase Facility,high,465.0B,435.0B,-1
+5/7/2020,6:00,GBP,Official Bank Rate,high,0.10%,0.10%,-1
+5/8/2020,7:30,USD,Average Hourly Earnings (m/m),high,0.40%,0.40%,1
+5/8/2020,7:30,USD,Nonfarm Payrolls,high,"-200,000.0k",-701.0k,1
+5/8/2020,7:30,USD,Private Payrolls,high,"-19,000.0k",-713.0k,1
+5/8/2020,7:30,USD,Unemployment Rate,high,16.00%,4.40%,-1
+5/12/2020,7:30,USD,CPI (m/m),high,-0.80%,-0.40%,1
+5/12/2020,7:30,USD,Core CPI (m/m),high,-0.20%,-0.10%,1
+5/13/2020,1:00,GBP,GDP (m/m),high,-2.20%,-0.10%,1
+5/13/2020,1:00,GBP,Manufacturing Production (y/y),high,-10.50%,-3.90%,1
+5/13/2020,1:00,GBP,Manufacturing Production (m/m),high,-6.00%,0.50%,1
+5/13/2020,1:00,GBP,GDP (q/q),high,-2.60%,0.00%,1
+5/13/2020,7:30,USD,PPI (m/m),high,-0.50%,-0.20%,1
+5/13/2020,8:00,USD,Fed's Powell to speak on economy,high,0,0,0
+5/15/2020,7:30,USD,Retail Sales (m/m),high,-12.00%,-8.3%*,1
+5/15/2020,7:30,USD,Retail Sales (ex Autos) (m/m),high,-8.50%,-4.0%*,1
+5/15/2020,9:00,USD,UoM Consumer Sentiment Index,high,68,71.8,1
+5/19/2020,18:50,JPY,Core Machine orders (y/y),high,-8.90%,-2.40%,1
+5/20/2020,1:00,GBP,CPI (m/m),high,0,0.00%,0
+5/20/2020,1:00,GBP,CPI (y/y),high,0.90%,1.50%,1
+5/20/2020,13:00,USD,FOMC minutes from April 29,high,0,0,0
+5/21/2020,18:30,JPY,Natl CPI (y/y),high,0.20%,0.40%,1
+5/22/2020,1:00,GBP,Core Retail Sales (m/m),high,-12.30%,-3.70%,1
+5/22/2020,1:00,GBP,Core Retail Sales (y/y),high,-17.60%,-4.10%,1
+5/22/2020,1:00,GBP,Retail Sales (y/y),high,-13.00%,-5.10%,1
+5/22/2020,1:00,GBP,Retail Sales (m/m),high,-13.00%,-5.10%,1
+5/25/2020,3:00,EUR,German IFO Business Climate,high,78.5,74.2*,1
+5/25/2020,3:00,EUR,German IFO Current Conditions,high,80,79.4*,1
+5/25/2020,3:00,EUR,German IFO Expectations,high,75,69.4,1
+5/26/2020,9:00,USD,Consumer Confidence,high,85,85.7*,1
+5/29/2020,9:00,USD,UoM Consumer Sentiment Index,high,74,73.7,1
+6/1/2020,9:00,USD,ISM Manufacturing,high,43,41.5,1
+6/3/2020,7:15,USD,ADP National Employment Report,high,"-9,000.0k","-19,557.0k*",1
+6/3/2020,9:00,USD,ISM Non-Manufacturing,high,44,41.8,1
+6/5/2020,7:30,USD,Average Hourly Earnings (m/m),high,1.00%,4.70%,1
+6/5/2020,7:30,USD,Nonfarm Payrolls,high,"-7,500.0k","-20,687.0k*",1
+6/5/2020,7:30,USD,Private Payrolls,high,"-6,750.0k","-19,724.0k*",1
+6/5/2020,7:30,USD,Unemployment Rate,high,19.50%,14.70%,-1
+6/9/2020,18:50,JPY,Core Machine orders (y/y),high,-13.20%,-0.70%,1
+6/10/2020,7:30,USD,CPI (m/m),high,-0.10%,-0.80%,1
+6/10/2020,7:30,USD,Core CPI (m/m),high,-0.10%,-0.40%,1
+6/10/2020,13:00,USD,Federal Funds Rate,high,0.25%,0.25%,-1
+6/11/2020,7:30,USD,PPI (m/m),high,-0.10%,-1.30%,1
+6/12/2020,1:00,GBP,GDP (m/m),high,-18.00%,-2.20%,1
+6/12/2020,1:00,GBP,Manufacturing Production (m/m),high,-15.50%,-6.00%,1
+6/12/2020,1:00,GBP,Manufacturing Production (y/y),high,-20.10%,-10.50%,1
+6/12/2020,9:00,USD,UoM Consumer Sentiment Index,high,76,72.3,1
+6/16/2020,All Day,JPY,BoJ 10y Yield Target,high,0.00%,0.00%,-1
+6/16/2020,All Day,JPY,BoJ Policy Balance Rate,high,-0.10%,-0.10%,-1
+6/16/2020,1:00,GBP,Claimant Count Change,high,330.0k,"1,032.7k",1
+6/16/2020,7:30,USD,Retail Sales (m/m),high,8.40%,-16.40%,1
+6/16/2020,7:30,USD,Retail Sales (ex Autos) (m/m),high,5.50%,-16.20%,1
+6/16/2020,7:30,USD,Retail Sales MoM,high,7.50%,-14.70%,1
+6/16/2020,10:00,USD,Fed's Powell delivers semi-annual policy report to Senate,high,0,0,0
+6/16/2020,18:50,JPY,Balance of Trade,high,-880.0B,-931.9B,1
+6/17/2020,1:00,GBP,Inflation Rate YoY,high,0.50%,0.80%,-1
+6/18/2020,6:00,GBP,Official Bank Rate,high,0.10%,0.10%,-1
+6/18/2020,18:30,JPY,Inflation Rate YoY,high,0.10%,0.10%,-1
+6/24/2020,3:00,EUR,German Ifo Business Climate,high,85.1,79.7*,1
+6/25/2020,1:00,EUR,German GfK Consumer Confidence,high,-13,-18.6*,1
+6/25/2020,7:30,USD,Durable Goods Orders,high,8.50%,-18.1%*,1
+6/25/2020,7:30,USD,GDP Growth Rate QoQ Final,high,-5.00%,2.10%,1
+6/26/2020,7:30,USD,Personal Income,high,-5.60%,10.8%*,1
+6/26/2020,7:30,USD,Personal Spending MoM,high,9.50%,-12.6%*,1
+6/26/2020,9:00,USD,UoM Consumer Sentiment Index,high,78.9,72.3,1
+6/29/2020,4:00,EUR,Business Climate,high,-2,-2.43,1
+6/30/2020,1:00,GBP,GDP Growth Rate QoQ Final,high,-2.00%,0.00%,1
+6/30/2020,1:00,GBP,GDP Growth Rate YoY Final,high,-1.60%,1.10%,1
+6/30/2020,9:00,USD,CB Consumer Confidence,high,90.1,85.9*,1
+6/30/2020,18:50,JPY,Tankan Large Manufacturers Index,high,-34,-8,1
+7/1/2020,0:00,JPY,Consumer Confidence,high,30,24,1
+7/1/2020,7:15,USD,ADP National Employment Report,high,"3,000.0k","3,065.0k*",1
+7/2/2020,7:30,USD,Average Hourly Earnings MoM,high,-0.70%,-1.00%,1
+7/2/2020,7:30,USD,Nonfarm Payrolls,high,"2,900.0k","2,699.0k*",1
+7/2/2020,7:30,USD,Unemployment Rate,high,12.30%,13.30%,-1
+7/2/2020,7:30,USD,Balance of Trade,high,-53.0B,-49.8B*,1
+7/2/2020,18:01,GBP,Gfk Consumer Confidence Final,high,-32,-30.0*,1
+7/8/2020,6:30,GBP,Supplementary Budget,high,0,0,0
+7/9/2020,All Day,EUR,Eurogroup Meeting,high,0,0,0
+7/9/2020,1:00,EUR,German Balance of Trade,high,21.1B,3.6B*,1
+7/10/2020,7:30,USD,PPI MoM,high,0.30%,0.40%,1
+7/14/2020,1:00,GBP,Manufacturing Production MoM,high,7.50%,-24.4%*,1
+7/14/2020,1:00,GBP,Manufacturing Production YoY,high,-22.90%,-28.2%*,1
+7/14/2020,1:00,GBP,Balance of Trade,high,-0.8B,2.3B*,1
+7/14/2020,7:30,USD,Inflation Rate YoY,high,0.50%,0.10%,-1
+7/14/2020,7:30,USD,Core Inflation Rate YoY,high,1.20%,1.20%,-1
+7/15/2020,1:00,GBP,Inflation Rate YoY,high,0.60%,0.50%,-1
+7/16/2020,1:00,GBP,Claimant Count Change,high,210.0k,566.4k*,-1
+7/16/2020,7:30,USD,Retail Sales MoM,high,4.50%,18.2%*,1
+7/17/2020,19:01,GBP,Gfk Consumer Confidence Flash,high,-26,-30,1
+7/19/2020,18:50,JPY,Balance of Trade,high,-40.0B,-838.2B*,1
+7/20/2020,18:30,JPY,Inflation Rate YoY,high,0.10%,0.10%,-1
+7/23/2020,1:00,EUR,German GfK Consumer Confidence,high,-4,-9.4*,1
+7/23/2020,18:01,GBP,Gfk Consumer Confidence,high,-26,-30,1
+7/27/2020,3:00,EUR,German Ifo Business Climate,high,88.5,86.3*,1
+7/27/2020,7:30,USD,Durable Goods Orders,high,5.00%,15.1%*,1
+7/28/2020,9:00,USD,CB Consumer Confidence,high,95,98.3*,1
+7/29/2020,13:00,USD,Federal Funds Rate,high,0.25%,0.25%,-1
+7/30/2020,3:00,EUR,German GDP Growth Rate YoY Flash,high,-11.40%,-2.30%,1
+7/30/2020,4:00,EUR,Business Climate,high,0,0,0
+7/30/2020,7:30,USD,GDP Growth Rate QoQ Adv,high,-33.00%,-5.00%,1
+7/31/2020,0:00,JPY,Consumer Confidence,high,26,28.4,1
+7/31/2020,7:30,USD,Personal Spending MoM,high,5.30%,8.5%*,1
+7/31/2020,7:30,USD,Personal Income,high,-0.30%,-4.4%*,1
+7/31/2020,9:00,USD,UoM Consumer Sentiment Index,high,73.2,78.1,1
+8/2/2020,18:50,JPY,GDP Growth Rate QoQ Final,high,-0.60%,-1.90%,1
+8/5/2020,7:15,USD,ADP National Employment Report,high,"1,550.0k","4,314.0k*",1
+8/5/2020,7:30,USD,Balance of Trade,high,-50.7B,-54.8B*,1
+8/6/2020,1:00,GBP,Official Bank Rate,high,0.10%,0.10%,-1
+8/7/2020,1:00,EUR,German Balance of Trade,high,1.4B,7.0B*,1
+8/7/2020,7:30,USD,Average Hourly Earnings MoM,high,-1.00%,-1.3%*,1
+8/7/2020,7:30,USD,Unemployment Rate,high,10.50%,11.10%,-1
+8/7/2020,7:30,USD,Nonfarm Payrolls,high,"1,620.0k","4,800.0k",1
+8/11/2020,1:00,GBP,Claimant Count Change,high,5.0k,-28.1k,-1
+8/11/2020,7:30,USD,PPI MoM,high,0.30%,-0.20%,1
+8/12/2020,1:00,GBP,Manufacturing Production YoY,high,-16.70%,-23.1%*,1
+8/12/2020,1:00,GBP,Manufacturing Production MoM,high,9.50%,8.3%*,1
+8/12/2020,1:00,GBP,Balance of Trade,high,2.8B,7.7B*,1
+8/12/2020,1:00,GBP,GDP Growth Rate YoY Prel,high,-23.00%,-1.70%,1
+8/12/2020,1:00,GBP,GDP Growth Rate QoQ Prel,high,-20.40%,-2.20%,1
+8/12/2020,7:30,USD,Core Inflation Rate YoY,high,1.00%,1.20%,-1
+8/12/2020,7:30,USD,Inflation Rate YoY,high,0.70%,0.60%,-1
+8/14/2020,7:30,USD,Retail Sales MoM,high,2.00%,8.4%*,1
+8/16/2020,18:50,JPY,GDP Growth Rate QoQ Prel,high,-6.50%,-0.60%,1
+8/18/2020,18:50,JPY,Balance of Trade,high,-120.0B,-269.3B*,1
+8/19/2020,1:00,GBP,Inflation Rate YoY,high,0.70%,0.60%,-1
+8/20/2020,18:01,GBP,Gfk Consumer Confidence,high,-24,-27,1
+8/20/2020,18:30,JPY,Inflation Rate YoY,high,0.10%,0.10%,-1
+8/25/2020,3:00,EUR,German Ifo Business Climate,high,92.5,90.4*,1
+8/25/2020,9:00,USD,CB Consumer Confidence,high,93,91.7*,1
+8/26/2020,7:30,USD,Durable Goods Orders,high,3.90%,7.7%*,1
+8/27/2020,7:30,USD,GDP Growth Rate QoQ 2nd Est,high,-32.90%,-5.00%,1
+8/28/2020,1:00,EUR,German GfK Consumer Confidence,high,2.5,-0.2*,1
+8/28/2020,4:00,EUR,Business Climate,high,0,0,0
+8/28/2020,7:30,USD,Personal Income,high,-0.40%,-1.0%*,1
+8/28/2020,7:30,USD,Personal Spending MoM,high,1.20%,6.2%*,1
+8/28/2020,9:00,USD,UoM Consumer Sentiment Index,high,72.8,72.5,1
+8/31/2020,0:00,JPY,Consumer Confidence,high,29,29.5,1
+9/2/2020,7:15,USD,ADP National Employment Report,high,"1,000.0k",212.0k*,1
+9/3/2020,7:30,USD,Balance of Trade,high,-59.0B,-53.5B*,1
+9/4/2020,7:30,USD,Average Hourly Earnings MoM,high,0.10%,0.1%*,1
+9/4/2020,7:30,USD,Nonfarm Payrolls,high,"1,490.0k","1,734.0k*",1
+9/4/2020,7:30,USD,Unemployment Rate,high,9.90%,10.20%,-1
+9/7/2020,18:50,JPY,GDP Growth Rate QoQ Final,high,-8.00%,-0.60%,1
+9/8/2020,1:00,EUR,German Balance of Trade,high,22.0B,15.6B,1
+9/10/2020,7:30,USD,PPI MoM,high,0.20%,0.60%,1
+9/11/2020,All Day,EUR,Eurogroup Meeting,high,0,0,0
+9/11/2020,1:00,GBP,Balance of Trade,high,1.2B,3.9B*,1
+9/11/2020,1:00,GBP,Manufacturing Production MoM,high,4.50%,11.00%,1
+9/11/2020,1:00,GBP,Manufacturing Production YoY,high,-10.80%,-14.60%,1
+9/11/2020,7:30,USD,Inflation Rate YoY,high,1.10%,1.00%,-1
+9/11/2020,7:30,USD,Core Inflation Rate YoY,high,1.50%,1.60%,-1
+9/15/2020,1:00,GBP,Claimant Count Change,high,51.0k,69.9k*,-1
+9/15/2020,18:50,JPY,Balance of Trade,high,-50.0B,10.9B*,1
+9/16/2020,1:00,GBP,Inflation Rate YoY,high,0.10%,1.00%,-1
+9/16/2020,7:30,USD,Retail Sales MoM,high,1.00%,0.9%*,1
+9/16/2020,13:00,USD,Federal Funds Rate,high,0.25%,0.25%,-1
+9/17/2020,6:00,GBP,Official Bank Rate,high,0.10%,0.10%,-1
+9/17/2020,18:30,JPY,Inflation Rate YoY,high,0.10%,0.30%,-1
+9/23/2020,1:00,EUR,German GfK Consumer Confidence,high,-3,-1.7*,1
+9/24/2020,3:00,EUR,German Ifo Business Climate,high,93,92.5*,1
+9/24/2020,6:30,GBP,Winter Economy Plan,high,0,0,0
+9/24/2020,18:01,GBP,Gfk Consumer Confidence,high,-26,-27,1
+9/25/2020,7:30,USD,Durable Goods Orders,high,2.00%,11.7%*,1
+9/29/2020,9:00,USD,CB Consumer Confidence,high,88.5,86.3*,1
+9/30/2020,1:00,GBP,GDP Growth Rate QoQ Final,high,-20.40%,-2.5%*,1
+9/30/2020,1:00,GBP,GDP Growth Rate YoY Final,high,-21.70%,-2.1%*,1
+9/30/2020,7:15,USD,ADP National Employment Report,high,610.0k,481.0k*,1
+9/30/2020,7:30,USD,GDP Growth Rate QoQ Final,high,-33.00%,-5.00%,1
+9/30/2020,18:50,JPY,Tankan Large Manufacturers Index,high,-26,-34,1
+10/1/2020,7:30,USD,Personal Spending MoM,high,0.80%,1.5%*,1
+10/1/2020,7:30,USD,Personal Income,high,-2.00%,0.5%*,1
+10/2/2020,0:00,JPY,Consumer Confidence,high,32,29.3,1
+10/2/2020,7:30,USD,Unemployment Rate,high,8.30%,8.40%,-1
+10/2/2020,7:30,USD,Nonfarm Payrolls,high,915.0k,"1,489.0k*",1
+10/2/2020,7:30,USD,Average Hourly Earnings MoM,high,0.20%,0.3%*,1
+10/2/2020,9:00,USD,UoM Consumer Sentiment Index,high,78.9,74.1,1
+10/5/2020,All Day,EUR,Eurogroup Video Conference,high,0,0,0
+10/6/2020,7:30,USD,Balance of Trade,high,-66.5B,-63.4B*,1
+10/8/2020,1:00,EUR,German Balance of Trade,high,17.4B,19.2B,1
+10/9/2020,1:00,GBP,Manufacturing Production YoY,high,-6.20%,-10.1%*,1
+10/9/2020,1:00,GBP,Manufacturing Production MoM,high,2.80%,6.9%*,1
+10/9/2020,1:00,GBP,Balance of Trade,high,0.6B,1.7B*,1
+10/13/2020,1:00,GBP,Claimant Count Change,high,72.0k,39.5k*,-1
+10/13/2020,7:30,USD,Core Inflation Rate YoY,high,1.70%,1.70%,-1
+10/13/2020,7:30,USD,Inflation Rate YoY,high,1.50%,1.30%,-1
+10/14/2020,7:30,USD,PPI MoM,high,0.30%,0.30%,1
+10/16/2020,7:30,USD,Retail Sales MoM,high,0.50%,0.60%,1
+10/18/2020,18:50,JPY,Balance of Trade,high,900.0B,248.6B*,1
+10/21/2020,1:00,GBP,Inflation Rate YoY,high,0.40%,0.20%,-1
+10/22/2020,1:00,EUR,German GfK Consumer Confidence,high,-3,-1.7*,1
+10/22/2020,18:01,GBP,Gfk Consumer Confidence,high,-26,-30.0*,1
+10/22/2020,18:30,JPY,Inflation Rate YoY,high,0.10%,0.20%,-1
+10/26/2020,4:00,EUR,German Ifo Business Climate,high,91.1,93.2*,1
+10/27/2020,7:30,USD,Durable Goods Orders,high,0.40%,0.40%,1
+10/27/2020,9:00,USD,CB Consumer Confidence,high,101.5,101.3*,1
+10/29/2020,0:00,JPY,Consumer Confidence,high,34.8,32.7,1
+10/29/2020,7:30,USD,GDP Growth Rate QoQ Adv,high,30.00%,-31.40%,1
+10/30/2020,4:00,EUR,German GDP Growth Rate YoY Flash,high,-5.80%,-11.30%,1
+10/30/2020,7:30,USD,Personal Income,high,0.40%,-2.5%*,1
+10/30/2020,7:30,USD,Personal Spending MoM,high,0.80%,1.00%,1
+10/30/2020,9:00,USD,UoM Consumer Sentiment Index,high,81.2,80.4,1
+11/3/2020,All Day,USD,Presidential Election,high,0,0,0
+11/3/2020,All Day,EUR,Eurogroup Video Conference,high,0,0,0
+11/4/2020,7:15,USD,ADP National Employment Report,high,590.0k,753.0k*,1
+11/4/2020,7:30,USD,Balance of Trade,high,-63.1B,-67.0B*,1
+11/5/2020,1:00,GBP,Official Bank Rate,high,0.10%,0.10%,-1
+11/5/2020,13:00,USD,Federal Funds Rate,high,0.25%,0.25%,-1
+11/6/2020,7:30,USD,Average Hourly Earnings MoM,high,0.10%,0.0%*,1
+11/6/2020,7:30,USD,Nonfarm Payrolls,high,510.0k,672.0k*,1
+11/6/2020,7:30,USD,Unemployment Rate,high,7.70%,7.90%,-1
+11/9/2020,1:00,EUR,German Balance of Trade,high,19.9B,11.9B*,1
+11/10/2020,1:00,GBP,Claimant Count Change,high,36.0k,-40.2k*,-1
+11/12/2020,1:00,GBP,Manufacturing Production MoM,high,0.80%,0.9%*,1
+11/12/2020,1:00,GBP,Manufacturing Production YoY,high,-7.60%,-8.3%*,1
+11/12/2020,1:00,GBP,Balance of Trade,high,-1.0B,2.9B*,1
+11/12/2020,7:30,USD,Inflation Rate YoY,high,1.50%,1.40%,-1
+11/12/2020,7:30,USD,Core Inflation Rate YoY,high,1.80%,1.70%,-1
+11/13/2020,7:30,USD,PPI MoM,high,0.20%,0.40%,1
+11/17/2020,7:30,USD,Retail Sales MoM,high,0.40%,1.6%*,1
+11/17/2020,17:50,JPY,Balance of Trade,high,210.0B,687.8B*,1
+11/18/2020,1:00,GBP,Inflation Rate YoY,high,0.70%,0.50%,-1
+11/19/2020,17:30,JPY,Inflation Rate YoY,high,-0.20%,0.00%,-1
+11/19/2020,18:01,GBP,GfK Consumer Confidence,high,-33,-31,1
+11/24/2020,3:00,EUR,German Ifo Business Climate,high,90.1,92.5*,1
+11/24/2020,9:00,USD,CB Consumer Confidence,high,97.5,101.4*,1
+11/25/2020,7:30,USD,Durable Goods Orders,high,0.80%,2.1%*,1
+11/25/2020,9:00,USD,UoM Consumer Sentiment Index,high,77,81.8,1
+11/25/2020,9:00,USD,Personal Spending MoM,high,0.50%,1.2%*,1
+11/25/2020,9:00,USD,Personal Income,high,0.20%,0.7%*,1
+11/26/2020,1:00,EUR,German GfK Consumer Confidence,high,-2,-3.2*,1
+11/30/2020,All Day,EUR,Eurogroup Video Conference,high,0,0,0
+12/1/2020,23:00,JPY,Consumer Confidence,high,33,33.6,1
+12/2/2020,7:15,USD,ADP National Employment Report,high,370.0k,404.0k*,1
+12/4/2020,7:30,USD,Average Hourly Earnings MoM,high,0.10%,0.10%,1
+12/4/2020,7:30,USD,Balance of Trade,high,-65.0B,-62.1B*,1
+12/4/2020,7:30,USD,Unemployment Rate,high,6.80%,6.90%,-1
+12/4/2020,7:30,USD,Nonfarm Payrolls,high,500.0k,610.0k*,1
+12/9/2020,1:00,EUR,German Balance of Trade,high,23.2B,20.6B*,1
+12/10/2020,1:00,GBP,Balance of Trade,high,0.5B,0.6B,1
+12/10/2020,1:00,GBP,Manufacturing Production YoY,high,-8.20%,-7.90%,1
+12/10/2020,1:00,GBP,Manufacturing Production MoM,high,0.30%,0.20%,1
+12/10/2020,7:30,USD,Core Inflation Rate YoY,high,1.60%,1.60%,-1
+12/10/2020,7:30,USD,Inflation Rate YoY,high,1.20%,1.20%,-1
+12/11/2020,7:30,USD,PPI MoM,high,0.20%,0.30%,1
+12/13/2020,17:50,JPY,Tankan Large Manufacturers Index,high,-17,-27,1
+12/15/2020,1:00,GBP,Claimant Count Change,high,30.0k,-29.8k,-1
+12/15/2020,17:50,JPY,Balance of Trade,high,510.0B,871.7B*,1
+12/16/2020,All Day,EUR,Eurogroup Video Conference,high,0,0,0
+12/16/2020,1:00,GBP,Inflation Rate YoY,high,0.80%,0.70%,-1
+12/16/2020,7:30,USD,Retail Sales MoM,high,-0.30%,-0.1%*,1
+12/17/2020,17:30,JPY,Inflation Rate YoY,high,-0.50%,-0.40%,-1
+12/17/2020,18:01,GBP,GfK Consumer Confidence,high,-30,-33,1
+12/18/2020,3:00,EUR,German Ifo Business Climate,high,90,90.9*,1

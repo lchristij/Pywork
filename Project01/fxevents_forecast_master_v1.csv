@@ -1,0 +1,74 @@
+Date,Time,Currency,News,Impact,Forecast,Previous,Direction
+12/22/2020,1:00,EUR,German GfK Consumer Confidence,high,-9.2,-6.8*,1
+12/22/2020,9:00,USD,CB Consumer Confidence,high,95.1,92.9*,1
+12/23/2020,7:30,USD,Personal Income,high,-0.40%,-0.6%*,1
+12/23/2020,7:30,USD,Personal Spending MoM,high,-0.40%,0.3%*,1
+12/23/2020,7:30,USD,Durable Goods Orders,high,0.60%,1.8%*,1
+12/23/2020,9:00,USD,UoM Consumer Sentiment Index,high,81.3,76.9,1
+1/5/2021,23:00,JPY,Consumer Confidence,high,35,33.7,1
+1/6/2021,7:15,USD,ADP National Employment Report,high,210.0k,307.0k,1
+1/7/2021,7:30,USD,Balance of Trade,high,-66.0B,-63.1B,1
+1/8/2021,1:00,EUR,German Balance of Trade,high,17.6B,19.4B,1
+1/8/2021,4:00,EUR,Business Climate,high,0,0,0
+1/8/2021,7:30,USD,Nonfarm Payrolls,high,190.0k,245.0k,1
+1/8/2021,7:30,USD,Unemployment Rate,high,6.60%,6.70%,-1
+1/8/2021,7:30,USD,Average Hourly Earnings MoM,high,0.10%,0.30%,1
+1/13/2021,7:30,USD,Inflation Rate YoY,high,1.10%,1.20%,-1
+1/13/2021,7:30,USD,Core Inflation Rate YoY,high,1.60%,1.60%,-1
+1/14/2021,3:00,EUR,German Government Budget,high,-7.00%,1.50%,1
+1/15/2021,1:00,GBP,Manufacturing Production MoM,high,0.20%,1.70%,1
+1/15/2021,1:00,GBP,Manufacturing Production YoY,high,-6.00%,-7.10%,1
+1/15/2021,1:00,GBP,Balance of Trade,high,-1.2B,-1.7B,1
+1/15/2021,7:30,USD,PPI MoM,high,0.20%,0.10%,1
+1/15/2021,7:30,USD,Retail Sales MoM,high,0.20%,-1.10%,1
+1/20/2021,1:00,GBP,Inflation Rate YoY,high,0.50%,0.30%,-1
+1/20/2021,17:50,JPY,Balance of Trade,high,200.0B,366.8B,1
+1/21/2021,17:30,JPY,Inflation Rate YoY,high,-0.30%,-0.90%,-1
+1/21/2021,18:01,GBP,Gfk Consumer Confidence,high,-27,0,0
+1/25/2021,3:00,EUR,German Ifo Business Climate,high,94,92.1,1
+1/26/2021,1:00,GBP,Claimant Count Change,high,44.0k,64.3k,-1
+1/26/2021,9:00,USD,CB Consumer Confidence,high,0,0,0
+1/27/2021,1:00,EUR,German GfK Consumer Confidence,high,-1,-7.3,1
+1/27/2021,7:30,USD,Durable Goods Orders,high,0.40%,0.90%,1
+1/28/2021,23:00,JPY,Consumer Confidence,high,34,0,0
+1/29/2021,4:00,EUR,Business Climate,high,0,0,0
+1/29/2021,7:30,USD,Personal Income,high,-0.60%,-1.10%,1
+1/29/2021,7:30,USD,Personal Spending MoM,high,-0.40%,-0.40%,1
+1/29/2021,9:00,USD,UoM Consumer Sentiment Index,high,0,0,0
+2/3/2021,7:15,USD,ADP National Employment Report,high,0,0,0
+2/5/2021,7:30,USD,Balance of Trade,high,-55.0B,0,0
+2/5/2021,7:30,USD,Unemployment Rate,high,0,0,0
+2/5/2021,7:30,USD,Nonfarm Payrolls,high,0,0,0
+2/5/2021,7:30,USD,Average Hourly Earnings MoM,high,0,0,0
+2/9/2021,1:00,EUR,German Balance of Trade,high,0,0,0
+2/10/2021,1:00,GBP,Manufacturing Production YoY,high,-7.20%,0,0
+2/10/2021,1:00,GBP,Manufacturing Production MoM,high,-1.60%,0,0
+2/10/2021,1:00,GBP,Balance of Trade,high,0,0,0
+2/10/2021,7:30,USD,Inflation Rate YoY,high,0,0,0
+2/10/2021,7:30,USD,Core Inflation Rate YoY,high,0,0,0
+2/16/2021,17:50,JPY,Balance of Trade,high,0,0,0
+2/17/2021,3:30,GBP,Inflation Rate YoY,high,0,0,0
+2/17/2021,7:30,USD,PPI MoM,high,0,0,0
+2/17/2021,7:30,USD,Retail Sales MoM,high,0,0,0
+2/18/2021,17:30,JPY,Inflation Rate YoY,high,0,0,0
+2/18/2021,18:01,GBP,Gfk Consumer Confidence,high,0,0,0
+2/22/2021,3:00,EUR,German Ifo Business Climate,high,0,0,0
+2/23/2021,1:00,GBP,Claimant Count Change,high,0,0,0
+2/25/2021,1:00,EUR,German GfK Consumer Confidence,high,0,0,0
+2/25/2021,7:30,USD,Durable Goods Orders,high,0,0,0
+2/26/2021,7:30,USD,Personal Income,high,0,0,0
+2/26/2021,7:30,USD,Personal Spending MoM,high,0,0,0
+2/26/2021,9:00,USD,UoM Consumer Sentiment Index,high,0,0,0
+3/3/2021,7:15,USD,ADP National Employment Report,high,0,0,0
+3/3/2021,23:00,JPY,Consumer Confidence,high,0,0,0
+3/5/2021,7:30,USD,Balance of Trade,high,0,0,0
+3/5/2021,7:30,USD,Average Hourly Earnings MoM,high,0,0,0
+3/5/2021,7:30,USD,Nonfarm Payrolls,high,0,0,0
+3/5/2021,7:30,USD,Unemployment Rate,high,0,0,0
+3/9/2021,1:00,EUR,German Balance of Trade,high,0,0,0
+3/10/2021,7:30,USD,Core Inflation Rate YoY,high,0,0,0
+3/10/2021,7:30,USD,Inflation Rate YoY,high,0,0,0
+3/12/2021,1:00,GBP,Manufacturing Production MoM,high,0,0,0
+3/12/2021,1:00,GBP,Manufacturing Production YoY,high,0,0,0
+3/12/2021,1:00,GBP,Balance of Trade,high,0,0,0
+3/12/2021,7:30,USD,PPI MoM,high,0,0,0
