@@ -13,7 +13,7 @@ The account password for both nodes is `testnetpassword`
 
 This is the configuration from `puppeth`:
 
-![puppeth](Screenshots/puppeth.png)
+![puppeth](Screenshots/puppeth_config.png)
 
 ## Install the geth node software
 
@@ -55,7 +55,7 @@ Select `Add Custom Node` and use `127.0.0.1:8545` to connect to the first node, 
 
 Your configuration should look like this:
 
-![custom-node](Screenshots/custom-node.png)
+![custom-node](Screenshots/c-node.png)
 
 You should now be connected to the local blockchain.
 
@@ -64,10 +64,10 @@ the keystore file, then enter `testnetpassword` as the password.
 
 You should now be able to send a transaction. Fill in the second node's account and send it one ETH.
 
-![transaction-send](Screenshots/transaction-send.png)
+![transaction-send](Screenshots/transact_tx.png)
 
 Once confirmed, you can check the TX Status by clicking the button in the popup, or pasting the TX Hash into the TX Status section of the app.
 
-![transaction-success](Screenshots/transaction-success.png)
+![transaction-success](Screenshots/transact-complete.png)
 
 All done! The PupperNet blockchain can now be used for local development!
