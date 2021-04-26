@@ -1,4 +1,4 @@
-# PupperNet Private Blockchain
+# BlueNet Private Blockchain
 
 This tutorial shows how to run a bluenet private network using the official Ethereum client `geth`
 
