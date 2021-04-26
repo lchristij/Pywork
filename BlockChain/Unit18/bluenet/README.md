@@ -61,7 +61,12 @@ Your configuration should look similar to the below with the exception of the ov
 
 ![custom-node](Screenshots/mycrypto_bluenet1.PNG)
 
-You should now be connected to the local blockchain.
+You should now be connected to your private network on the local blockchain.
+
+You should also have a node connected to your private network via MyCrypto
+
+![MyCrypto Node Network](Screenshots/mycrypto_bluenet0.PNG)
+
 
 Click on the `Keystore file` option to access the first node's wallet, and navigate to `node9/keystore` and select
 the keystore file, then enter `null` as the password.
@@ -72,6 +77,18 @@ You should now be able to send a transaction. Fill in the second node's account 
 
 Once confirmed, you can check the TX Status by clicking the button in the popup, or pasting the TX Hash into the TX Status section of the app.
 
-![transaction-success](Screenshots/transact_tx_blue2.PNG)
+![transaction-success A.](Screenshots/transact_tx_blue2.PNG)
+
+![transaction-success B.](Screenshots/transact_tx_blue3.PNG)
+
+![transaction-success C.](Screenshots/transact_tx_blue4.PNG)
+
+![transaction-success D.](Screenshots/transact_tx_blue5.PNG)
+
+![transaction-success E.](Screenshots/transact_tx_blue6.PNG)
+
+
+
+
 
 All done! The bluenet blockchain can now be used for local development!
