@@ -73,22 +73,32 @@ the keystore file, then enter `null` as the password.
 
 You should now be able to send a transaction. Fill in the second node's account and send it one ETH.
 
-![transaction-send](Screenshots/transact_tx_blue.PNG)
+![transaction-send A.](Screenshots/transact_tx_blue.PNG)
+
+![transaction-send B.](Screenshots/transact_tx_blue2.PNG)
+
+![transaction-send C.](Screenshots/transact_tx_blue3.PNG)
+
+![transaction-send D.](Screenshots/transact_tx_blue4.PNG)
+
+![transaction-send E.](Screenshots/transact_tx_blue5.PNG)
+
+![transaction-send F.](Screenshots/transact_tx_blue6.PNG)
+
 
 Once confirmed, you can check the TX Status by clicking the button in the popup, or pasting the TX Hash into the TX Status section of the app.
 
-![transaction-success A.](Screenshots/transact_tx_blue2.PNG)
+![transaction-success A.](Screenshots/transact_tx_blue.PNG)
 
-![transaction-success B.](Screenshots/transact_tx_blue3.PNG)
+![transaction-success B.](Screenshots/transact_tx_blue2.PNG)
 
-![transaction-success C.](Screenshots/transact_tx_blue4.PNG)
+![transaction-success C.](Screenshots/transact_tx_blue3.PNG)
 
-![transaction-success D.](Screenshots/transact_tx_blue5.PNG)
+![transaction-success D.](Screenshots/transact_tx_blue4.PNG)
 
-![transaction-success E.](Screenshots/transact_tx_blue6.PNG)
+![transaction-success E.](Screenshots/transact_tx_blue5.PNG)
 
-
-
+![transaction-success F.](Screenshots/transact_tx_blue6.PNG)
 
 
 All done! The bluenet blockchain can now be used for local development!
