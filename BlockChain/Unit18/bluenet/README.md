@@ -98,11 +98,29 @@ Once confirmed, you can check the TX Status by clicking the button in the popup,
 
 ![transaction-success B.](Screenshots/c31_txg1.PNG)
 
-![transaction-success C.](Screenshots/2ad_txg.PNG)
+![transaction-success C.](Screenshots/c31_txgs.PNG)
 
-![transaction-success D.](Screenshots/2ad_txg1.PNG)
+![transaction-success D.](Screenshots/c31_txgs1.PNG)
 
-![transaction-success E.](Screenshots/bf5_txg.PNG)
+![transaction-success E.](Screenshots/c31_txgs2.PNG)
+
+![transaction-success F.](Screenshots/c31_txgs3.PNG)
+
+![transaction-success G.](Screenshots/2ad_txg.PNG)
+
+![transaction-success H.](Screenshots/2ad_txg1.PNG)
+
+![transaction-success I.](Screenshots/2ad_txgs.PNG)
+
+![transaction-success J.](Screenshots/2ad_txgs1.PNG)
+
+![transaction-success K.](Screenshots/bf5_txg.PNG)
+
+![transaction-success L.](Screenshots/bf5_txgs.PNG)
+
+![transaction-success M.](Screenshots/bf5_txgs1.PNG)
+
+![transaction-success N.](Screenshots/bf5_txgs2.PNG)
 
 
 All done! The bluenet blockchain can now be used for local development!
