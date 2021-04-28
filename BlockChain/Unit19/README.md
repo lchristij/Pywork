@@ -27,22 +27,34 @@ ln -s hd-wallet-derive.php ../derive
 cd ..
 ```
 
+BTCTEST Transaction
+
+open python console
+
+import wallet as seen below
+
 To use the wallet try setting an account as described below:
 
 `account = priv_key_to_account(BTCTEST, coins[BTCTEST][0]['privkey'])`
 
 Now, send a transaction by doing following:
 
-`send_tx(BTCTEST, account, 'mv4rnyY3Su5gjcDNzbMLKBQkBicCtHUtFB', '0.001')`
+`send_tx(ETH, account, '0xa920887a95b661555d112117F05CfaAA7e9810A7', '0.001')`
 
 The `coins` object contains a list of child wallets for each coin, in this case `BTCTEST` and `ETH`.
 
-![wallet-object](Images/wallet.png)
+![wallet-object](Images/conis-output.PNG)
+
+![wallet-object](Images/conis-output1.PNG)
 
 Here is an example `ETH` transaction on a local testnet:
 
-![eth-test](Images/eth.png)
+![eth-test](Images/eth-tx-conf-ab7.PNG)
+
+![eth-test](Images/block-explore-trans-ae0-7be.PNG)
 
 Here is an example `BTCTEST` transaction on testnet3:
 
-![eth-test](Images/btc.png)
+![btc-test](Images/block-explore-trans-b56f.PNG)
+
+![btc-test](Images/block-explore-trans-conf-b56f.PNG)
